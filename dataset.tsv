@@ -1,0 +1,501 @@
+matrícula	nome	idade	renda	cor	sexo	ano_curso	escola	cod_curso	logradouro	numero	bairro	cidade	uf	cep	gad-1	gad-2	gad-3	gad-4	gad-5	gad-6	gad-7	motivação
+RA55000001	Osane Inácio Pinhal Ouro	19	418.0	1	2	3	1	5	Viela Vinte e Sete de Setembro	710	Cidade Nova Heliópolis	São Paulo	SP	04235-090	1	1	1	1	1	1	1	9
+RA55000002	Zezita Olivares Ferro Telinhos	19	279.0	1	2	3	1	2	Rua Marechal Marques Porto	22	Jardim Caguassu	São Paulo	SP	03906-020	0	1	1	1	1	1	1	10
+RA55000003	Orleis Bilhalva Pereira Moita	19	87.0	1	1	3	1	9	Rua Vinte de Março	315	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-115	1	0	1	1	1	1	1	10
+RA55000004	Kaiuan Félix	19	243.0	1	1	3	1	9	Rua João Pires	702	Mooca	São Paulo	SP	03168-060	1	1	1	1	1	1	1	9
+RA55000005	Geovan Quaresma Lameirinhas	19	348.0	1	1	3	1	6	Rua São João	323	Vila Pereira Barreto	São Paulo	SP	02920-050	1	1	1	1	1	1	1	9
+RA55000006	Antunina Brião Roriz Cedraz	19	586.0	1	2	3	1	1	Rua Sete de Dezembro	400	Vila Bela Vista (Zona Norte)	São Paulo	SP	02617-080	1	1	1	1	1	1	1	10
+RA55000007	Eucio Paz Sacadura	19	190.0	1	1	3	1	8	Rua Nossa Senhora Aparecida	375	Jardim Francisco Mendes	São Paulo	SP	02366-110	1	1	1	1	1	1	1	9
+RA55000008	Eranilda Rabelo Paiva	19	302.0	1	2	3	1	1	Rua Sargento Noel de Camargo	221	Jardim Imperador (Zona Leste)	São Paulo	SP	03937-000	1	1	1	1	1	1	1	9
+RA55000009	Sizino Ornelas Esteves Conceição	19	151.0	2	1	3	1	1	Rua São Marun	19	Chácara Itaim	São Paulo	SP	04543-017	1	0	0	0	0	0	0	10
+RA55000010	Elisamara Ponte	19	321.0	1	2	3	1	9	Rua João Anes	464	Alto da Lapa	São Paulo	SP	05060-020	0	0	0	0	0	0	0	9
+RA55000011	Cosmildo Carvalho Corte-Real	19	369.0	1	1	3	1	1	Rua Sargento Advíncola	568	Parque Mandaqui	São Paulo	SP	02418-130	1	0	1	1	1	1	1	9
+RA55000012	Jece Ramos	19	253.0	1	1	3	1	1	Rua Capitão Luís Ramos	871	Vila Guilherme	São Paulo	SP	02066-010	1	0	1	1	0	1	1	9
+RA55000013	Adelheid Azambuja Galindo Miranda	19	461.0	1	2	3	1	8	Rua Vinte e Seis de Abril	307	Vila Esperança	São Paulo	SP	03651-020	1	1	1	1	1	1	1	10
+RA55000014	Neiri Aveiro Fontinha Reino	19	564.0	1	1	3	1	5	Rua Vale Maior	533	Jardim Miriam	São Paulo	SP	04417-040	1	1	1	1	1	1	1	9
+RA55000015	Nascir Casqueira	19	469.0	1	1	3	1	3	Rua N	349	Jardim Brasília (Zona Norte)	São Paulo	SP	02857-065	1	1	1	1	1	1	1	9
+RA55000016	Honorio Escobar Picanço	19	454.0	1	1	3	1	1	Rua Treze de Maio	349	Bela Vista	São Paulo	SP	01327-905	2	1	1	1	1	1	1	9
+RA55000017	Robernilson Sodré Alvarenga	19	514.0	1	1	3	1	4	Rua Acuruí	534	Vila Formosa	São Paulo	SP	03355-000	1	1	1	1	1	1	1	9
+RA55000018	Yael Mata	19	588.0	1	2	3	1	6	Praça Elfos	92	Jardim Marajoara	São Paulo	SP	04664-090	1	1	1	1	1	1	1	9
+RA55000019	Ifigenia Bencatel Araújo Corte-Real	19	149.0	1	2	3	1	4	Avenida Nove de Julho	873	Jardim Paulista	São Paulo	SP	01407-907	1	1	1	1	1	1	1	9
+RA55000020	Mikaelly Basílio Cantanhede Resende	19	872.99	2	2	3	1	3	Avenida Onze de Junho	571	Vila Clementino	São Paulo	SP	04041-002	1	1	1	1	1	1	1	9
+RA55000021	Sonisvaldo Moreno Afonso	19	686.99	1	1	3	1	7	Rua Major Dantas Cortez	683	Vila Gustavo	São Paulo	SP	02206-001	1	1	1	1	0	0	0	9
+RA55000022	Egino Barrico	19	684.99	1	1	3	1	1	Rua Peruíbe	864	Jardim Europa	São Paulo	SP	01448-090	1	1	1	1	1	1	1	9
+RA55000023	Cleberson Faria	19	941.99	1	1	3	1	4	Rua São Vito	399	Brás	São Paulo	SP	03007-030	0	0	0	0	0	0	0	10
+RA55000024	Marcejane Fragoso Estrada	19	652.99	2	2	3	1	8	Rua Marcos Freire	439	Jardim Nova Conquista	São Paulo	SP	08346-580	0	0	0	0	0	0	0	9
+RA55000025	Gildaria Ulhoa Mata Pereira	19	1141.99	1	2	3	1	3	Avenida Marechal Juarez Távora	301	Super Quadra Morumbi	São Paulo	SP	05750-000	1	1	1	1	1	2	1	9
+RA55000026	Dierlisson Úria Ninharelhos	19	1151.99	1	1	3	1	9	Rua Major Almeida Queiroz	127	Instituto de Previdência	São Paulo	SP	05531-020	0	1	1	1	1	1	1	10
+RA55000027	Keitiana Laureano Gentil Salgueiro	19	1157.99	2	2	3	1	8	Rua Rui Boto de Sousa	425	Jardim Aracati	São Paulo	SP	04949-020	0	0	1	1	1	1	1	10
+RA55000028	Adevilson Tedim	19	1178.99	1	1	3	1	7	Praça Opala	269	Vila Euthalia	São Paulo	SP	03518-065	1	1	1	1	1	1	1	9
+RA55000029	Mirlene Miranda	19	1117.99	1	2	3	1	6	Rua Capitão Fidélis	7	Santo Amaro	São Paulo	SP	04744-070	1	0	0	0	1	1	1	10
+RA55000030	Judite Proença Guerra Rosa	19	819.99	1	2	3	1	4	Rua Major Marcelino	634	Brás	São Paulo	SP	03025-020	1	1	1	1	1	1	1	9
+RA55000031	Alana Toste	19	705.99	1	2	3	1	7	Rua Barão de Suruí	910	Vila Congonhas	São Paulo	SP	04612-120	1	1	1	1	1	1	1	9
+RA55000032	Ildamara Montenegro Cancela	19	878.99	1	2	3	1	7	Rua Dona Domitila	252	Vila Ponte Rasa	São Paulo	SP	03882-180	1	0	0	0	0	0	1	10
+RA55000033	Lairi Noite Rebelo	19	619.99	1	2	3	1	6	Rua Marcos Liberi	843	Conjunto Residencial José Bonifácio	São Paulo	SP	08253-270	0	1	1	1	1	1	1	9
+RA55000034	Sostenis Fialho	19	888.99	1	1	3	1	5	Rua Rio Maruí	679	Itaquera	São Paulo	SP	08215-640	1	0	0	0	0	0	0	9
+RA55000035	Darcimara Brito Santiago	19	761.99	1	2	3	1	8	Rua Dona Domitila	252	Vila Ponte Rasa	São Paulo	SP	03882-180	1	1	1	1	1	1	1	9
+RA55000036	Lidiele Delgado Meneses Castro	19	1085.99	1	2	3	1	9	Rua Marcos Freire	579	Jardim Nova Conquista	São Paulo	SP	08346-580	1	0	0	0	0	0	0	10
+RA55000037	Taiguara Homem	19	1025.99	1	1	3	1	2	Praça Monsenhor Macedo	598	Jardim Franca	São Paulo	SP	02338-040	0	0	1	1	1	0	0	10
+RA55000038	Ginoel Pinto Mamouros	19	749.99	2	1	3	1	3	Rua São Bento	984	Centro	São Paulo	SP	01010-001	1	0	1	1	1	1	1	9
+RA55000039	Raifi Santiago	19	802.99	1	1	3	1	4	Praça Kant	199	Jardim Vila Mariana	São Paulo	SP	04116-230	0	0	0	0	0	0	0	10
+RA55000040	Nilzete Clementino Mota Loureiro	19	1215.99	2	2	3	1	7	Rua Pires de Almeida	58	Vila Pita	São Paulo	SP	02478-130	1	1	1	1	1	1	1	9
+RA55000041	Sandrea Brites	19	1181.99	1	2	3	1	9	Rua Marcos Freire	579	Jardim Nova Conquista	São Paulo	SP	08346-580	1	1	1	1	1	1	1	9
+RA55000042	Axe Estrela	19	1098.99	1	1	3	1	2	Rua Monsenhor Anacleto	754	Brás	São Paulo	SP	03003-020	0	0	1	1	1	0	0	10
+RA55000043	Cildo Avelar Matias	19	761.99	1	1	3	1	4	Avenida Nove de Julho	565	Jardim Paulista	São Paulo	SP	01407-200	0	0	0	0	0	0	0	10
+RA55000044	Alcendina Veríssimo Carneiro Semedo	19	947.99	1	2	3	1	2	Rua Almeida Campos	300	Vila Paulicéia	São Paulo	SP	02302-010	1	1	1	1	1	1	2	10
+RA55000045	Jecica Carrilho Candal	19	739.99	1	2	3	1	2	Rua Vinte e Oito de Setembro	136	Vila Dom Pedro I	São Paulo	SP	04267-000	0	0	0	0	0	0	0	9
+RA55000046	Maeli Abreu	19	1101.99	2	2	3	1	3	Rua Três de Maio	864	Vila Clementino	São Paulo	SP	04044-020	0	0	1	1	1	1	1	9
+RA55000047	Leodato Pedroso Moutinho	19	875.99	2	1	3	1	4	Rua Nossa Senhora Aparecida	463	Jardim Elizabeth	São Paulo	SP	08320-800	0	0	0	0	1	1	0	10
+RA55000048	Ianael Magalhães	19	1098.99	1	2	3	1	8	Avenida Sargento Geraldo Sant'Ana	512	Jardim Taquaral	São Paulo	SP	04674-903	1	0	1	1	1	1	1	10
+RA55000049	Isafran Ruas Gravato Calçada	19	1079.99	1	2	3	1	9	Rua Pedro Roget	841	Jardim Vivan	São Paulo	SP	02993-160	0	0	0	0	0	0	0	9
+RA55000050	Fulgencio Murteira Ferrão	19	807.99	1	1	3	1	3	Rua João Pais	348	Jardim Petrópolis	São Paulo	SP	04603-904	1	0	1	1	1	1	1	10
+RA55000051	Ilma Gama Castro Dias	19	936.99	1	2	3	1	1	Rua Monsenhor Anacleto	13	Brás	São Paulo	SP	03003-020	1	1	1	1	1	1	1	10
+RA55000052	Nadilva Almeida Andrade Leal	19	785.99	1	2	3	1	6	Rua São Pedro	208	Recanto Verde do Sol	São Paulo	SP	08382-110	1	1	1	1	1	1	1	9
+RA55000053	Eleneuza Picão Alvim	19	1175.99	1	2	3	1	8	Praça Rei	355	Vila Santa Cruz	São Paulo	SP	05220-020	1	1	1	1	1	1	2	9
+RA55000054	Wenry Nolasco Telinhos	19	624.99	1	1	3	1	1	Rua do Buruí	716	Parque Casa de Pedra	São Paulo	SP	02320-170	1	1	1	1	1	1	0	10
+RA55000055	Otavio Nascimento Seabra	19	1010.99	1	1	3	1	9	Rua João Pujol	954	Vila Dona Sara	São Paulo	SP	03471-020	1	1	2	1	2	2	2	9
+RA55000056	Gilceu Valente Imperial	19	779.99	1	1	3	1	1	Rua João Anes	464	Alto da Lapa	São Paulo	SP	05060-020	1	1	1	1	1	1	1	9
+RA55000057	Dhessy Palhares	19	629.99	1	2	3	1	1	Praça da Sé	631	Sé	São Paulo	SP	01001-901	0	0	0	0	0	0	0	10
+RA55000058	Merilin Alcoforado	19	887.99	2	2	3	1	3	Rua N	126	Furnas	São Paulo	SP	02323-280	1	1	1	1	1	1	1	10
+RA55000059	Shizuko Quental	19	1094.99	1	2	3	1	4	Rua Pedro Doll	676	Santana	São Paulo	SP	02404-001	1	1	1	1	1	1	1	10
+RA55000060	Euza Mafra	19	1218.99	1	2	3	1	9	Rua Sargento Sílvio Nunes Miranda	474	Parque Peruche	São Paulo	SP	02532-050	1	2	1	1	1	1	1	10
+RA55000061	Eloides Cortês Barroca Esparteiro	19	619.99	1	2	3	1	2	Rua Rui Barbosa Lima	441	Vila Curuçá	São Paulo	SP	08030-730	1	1	1	1	1	1	1	9
+RA55000062	Yugo Graça Ataíde	19	705.99	1	1	3	1	9	Rua Capitão Rangel	574	Vila São Geraldo	São Paulo	SP	03607-100	1	1	1	1	1	1	0	10
+RA55000063	Alvacir Cobra Nobre Camargo	19	792.99	1	1	3	1	1	Rua Onofre Pinto	15	Jardim Lajeado	São Paulo	SP	08441-211	1	2	2	2	2	2	2	9
+RA55000064	Raine Castilhos Regalado	19	926.99	1	2	3	1	3	Rua Sete de Dezembro	400	Vila Bela Vista (Zona Norte)	São Paulo	SP	02617-080	1	2	1	1	1	1	1	9
+RA55000065	Adeildo Cordeiro Bacelar	19	1177.99	1	1	3	1	3	Rua Nossa Senhora da Paz	485	Jardim Almeida	São Paulo	SP	04866-245	1	1	1	1	1	1	1	10
+RA55000066	Ranisson Fialho Cabral	19	1014.99	1	1	3	1	4	Rua Nossa Senhora Aparecida	709	Jardim São Francisco	São Paulo	SP	08390-252	1	1	1	1	1	1	1	9
+RA55000067	Ritinha Porciúncula Ourique	19	840.99	1	2	3	1	9	Rua Sargento Olício Alves	48	Vila Campo Grande	São Paulo	SP	04455-180	1	1	1	1	1	1	1	9
+RA55000068	Eiichi Moita	19	705.99	1	1	3	1	1	Rua Dom João VI	942	Jardim Luzitânia	São Paulo	SP	04032-100	1	1	1	1	1	1	1	10
+RA55000069	Wadson Teles	19	1114.99	2	1	3	1	8	Rua Vinte e Dois de Abril	329	Lajeado	São Paulo	SP	08450-420	1	1	1	1	1	1	1	10
+RA55000070	Rodinei Resende Quinteiro	19	634.99	1	1	3	1	1	Rua Major Baracca	906	Parque Edu Chaves	São Paulo	SP	02232-000	1	1	1	1	1	0	0	9
+RA55000071	Justiane Salgado	19	1106.99	1	2	3	1	7	Praça Yedo	133	Vila Maria Alta	São Paulo	SP	02134-050	1	1	1	1	1	1	1	10
+RA55000072	Josenilton Tinoco	19	750.99	1	1	3	1	3	Rua Marconi	585	Centro	São Paulo	SP	01047-910	1	1	1	0	0	0	0	10
+RA55000073	Edete Inácio Furtado Canadas	19	821.99	1	2	3	1	7	Rua Manuel Pinto	121	Jardim Eliza	São Paulo	SP	05776-460	2	2	2	2	2	2	2	9
+RA55000074	Adson França	19	1145.99	1	1	3	1	7	Rua A	587	Jardim Elizabeth	São Paulo	SP	08320-685	1	1	1	1	1	1	1	9
+RA55000075	Zaira Salgueiro Cruz	19	746.99	1	2	3	1	6	Rua João Pais	348	Jardim Petrópolis	São Paulo	SP	04603-904	1	1	1	1	1	0	0	10
+RA55000076	Kelliany Carrasco Padilha Colaço	19	1059.99	1	2	3	1	3	Rua Major Marcelino	634	Brás	São Paulo	SP	03025-020	1	1	1	0	0	1	0	10
+RA55000077	Geraldi Mourão Macena Letras	19	808.99	1	1	3	1	6	Rua Capitão Prudente	202	Pinheiros	São Paulo	SP	05422-050	1	1	1	0	0	1	1	9
+RA55000078	Circi Regodeiro	19	934.99	1	2	3	1	6	Rua São Marun	19	Chácara Itaim	São Paulo	SP	04543-017	1	1	1	1	1	1	1	9
+RA55000079	Luzimar Colares Rego	19	1029.99	1	2	3	1	1	Rua Marechal Fontoura	620	Água Fria	São Paulo	SP	02336-050	1	1	1	1	1	1	1	9
+RA55000080	Gelcina Cadavez Alencar Valentim	19	630.99	1	2	3	1	1	Rua H	539	Conjunto Residencial Alpes do Jaraguá	São Paulo	SP	05183-380	0	0	0	0	0	0	1	9
+RA55000081	Genilson Marmou Conceição Quirino	19	905.99	1	1	3	1	5	Avenida Marechal Juarez Távora	301	Super Quadra Morumbi	São Paulo	SP	05750-000	1	1	1	1	1	1	1	9
+RA55000082	Agilio Mirandela Quental	19	686.99	1	1	3	1	4	Praça Três de Setembro	892	Vila Alpina	São Paulo	SP	03207-060	1	1	1	0	0	0	0	9
+RA55000083	Janilane Lampreia Rosmaninho Alvarenga	19	828.99	1	2	3	1	3	Rua Caetano Desco	948	Vila Baruel	São Paulo	SP	02523-080	1	1	1	0	0	0	1	9
+RA55000084	Deivedi Olivares Caeira	19	978.99	1	1	3	1	8	Rua Rui Barbosa Lima	441	Vila Curuçá	São Paulo	SP	08030-730	1	1	1	1	1	1	2	10
+RA55000085	Kenio Foquiço Carreiro	19	912.99	1	1	3	1	9	Praça Elfos	92	Jardim Marajoara	São Paulo	SP	04664-090	1	1	1	1	1	1	1	9
+RA55000086	Elanio Maciel Castilho	19	1070.99	1	1	3	1	4	Avenida Moema	951	Planalto Paulista	São Paulo	SP	04077-912	1	1	1	1	2	2	2	9
+RA55000087	Redner Faustino Lira Rebotim	19	1033.99	1	1	3	1	2	Rua São Vito	399	Brás	São Paulo	SP	03007-030	1	1	1	1	1	1	1	10
+RA55000088	Roseniuda Passarinho Madureira Monte	19	1071.99	1	2	3	1	3	Rua Caetano do Amaral	901	Vila Cruzeiro	São Paulo	SP	03382-130	1	1	1	1	1	1	1	9
+RA55000089	Walice Tabosa Veloso Lousado	19	1166.99	1	1	3	1	6	Rua Sargento Luiz Baptista	725	Jardim São Vicente	São Paulo	SP	08021-530	1	1	1	1	1	1	1	9
+RA55000090	Jubileia Granjeiro Caetano	19	843.99	1	2	3	1	1	Rua Soldado Sebastião Felício	171	Parque Novo Mundo	São Paulo	SP	02144-070	1	1	1	1	1	1	1	10
+RA55000091	Arselino Mangueira Valadares Severo	19	1166.99	2	1	3	1	5	Rua Orestes Barbosa	329	Jardim Palmares (Zona Sul)	São Paulo	SP	04457-000	1	1	1	1	1	1	1	10
+RA55000092	Werliton Quesado Santana	19	1060.99	2	1	3	1	8	Rua Flor de Abril	918	Jardim Peri	São Paulo	SP	02651-140	1	1	1	1	1	1	1	10
+RA55000093	Celineide Condorcet	19	931.99	1	2	3	1	2	Rua Major Walter Carlson	532	Jardim Arpoador	São Paulo	SP	05565-210	1	1	1	0	1	1	1	10
+RA55000094	Joseline Taborda Albernaz Braga	19	911.99	1	2	3	1	2	Rua Vinte e Quatro de Dezembro	307	Vila Dom Pedro II	São Paulo	SP	02241-050	1	1	1	0	0	0	0	10
+RA55000095	Wader Noleto	19	993.99	1	1	3	1	6	Rua Marechal Silva Fonseca	104	Jardim Três Marias	São Paulo	SP	03676-030	1	1	1	0	0	0	0	9
+RA55000096	Izanete Pinho Aleixo Bezerril	19	1022.99	1	2	3	1	5	Rua Rui Barbosa Lima	441	Vila Curuçá	São Paulo	SP	08030-730	1	1	1	1	1	1	1	10
+RA55000097	Alverico Quental	19	672.99	1	1	3	1	4	Rua Acuruí	534	Vila Formosa	São Paulo	SP	03355-000	1	1	1	1	1	1	1	9
+RA55000098	Glenilson Lucena Macena	19	1156.99	1	1	3	1	1	Rua Almeida Góis	195	Vila Gumercindo	São Paulo	SP	04131-040	1	1	1	1	1	1	1	9
+RA55000099	Josetina Nascimento	19	1086.99	1	2	3	1	6	Rua Major Júlio Valente	218	Parque Doroteia	São Paulo	SP	04474-310	1	1	1	1	1	1	1	9
+RA55000100	Iane Nobre	19	1154.99	1	2	3	1	1	Rua Rosa de Nossa Senhora	913	Vila Reis	São Paulo	SP	08040-400	1	2	1	1	1	1	1	10
+RA55000101	Gidasio Coimbra Valadares	19	1077.99	1	1	3	1	3	Rua Marcos Lopes	456	Vila Nova Conceição	São Paulo	SP	04513-080	1	1	1	1	1	1	1	9
+RA55000102	Ahmed Gama Mamouros Xisto	19	1204.99	2	1	3	1	1	Rua D	704	Jardim Fontalis	São Paulo	SP	02360-171	1	1	1	1	1	1	1	10
+RA55000103	Nilza Guedelha	19	657.99	1	2	3	1	6	Praça Caipé	376	Vila Califórnia	São Paulo	SP	03213-010	1	1	1	1	1	1	1	10
+RA55000104	Nadia Rebocho Hipólito	19	897.99	1	2	3	1	4	Rua Flor de Maio	247	Parque das Flores	São Paulo	SP	08391-435	1	1	1	1	1	1	1	10
+RA55000105	Daisy Lameira Miranda	19	862.99	1	2	3	1	5	Praça São Marcos	834	Vila Ida	São Paulo	SP	05455-050	2	2	1	1	1	1	1	9
+RA55000106	Eroni Melgaço Monte	19	664.99	1	2	3	1	3	Rua Nossa Senhora Aparecida	604	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-105	1	1	1	1	1	1	1	9
+RA55000107	Alvanir Ferraço Pescada Ximenes	19	896.99	2	2	3	1	6	Rua Vinte e Quatro de Dezembro	633	Vila Dom Pedro II	São Paulo	SP	02241-050	1	1	1	1	1	1	1	10
+RA55000108	Cleilda Toledo	19	637.99	1	2	3	1	7	Rua João Anes	464	Alto da Lapa	São Paulo	SP	05060-020	1	1	1	1	1	1	1	10
+RA55000109	Etiene Quinta	19	831.99	2	2	3	1	9	Avenida Agami	715	Moema	São Paulo	SP	04522-001	1	1	1	1	1	1	0	10
+RA55000110	Gilso Custódio Ruela Varão	19	939.99	1	1	3	1	1	Rua Marechal Marques Porto	22	Jardim Caguassu	São Paulo	SP	03906-020	1	1	1	1	1	1	1	10
+RA55000111	Agassi Cabral Chaves	19	745.99	1	1	3	1	9	Rua Treze de Maio	267	Bela Vista	São Paulo	SP	01327-905	0	0	1	0	0	1	1	9
+RA55000112	Joseildo Paião Ribeiro	19	718.99	1	1	3	1	2	Rua Marcos Lopes	456	Vila Nova Conceição	São Paulo	SP	04513-080	1	1	1	1	1	1	1	9
+RA55000113	Eliezia Pessoa Quinta Abrantes	19	1220.99	1	2	3	1	8	Rua Dom Rosalvo	343	Sumarezinho	São Paulo	SP	05442-903	1	1	1	1	1	1	1	10
+RA55000114	Elieuza Alvelos	19	641.99	1	2	3	1	2	Rua Dom Rosalvo	343	Sumarezinho	São Paulo	SP	05442-903	0	0	0	0	0	0	0	9
+RA55000115	Isabeti Rebouças	19	1129.99	1	2	3	1	9	Praça Elfos	92	Jardim Marajoara	São Paulo	SP	04664-090	1	1	1	1	1	1	1	10
+RA55000116	Dileane Feijó Cirne Rangel	19	1205.99	1	2	3	1	5	Rua Marconi	293	Centro	São Paulo	SP	01047-906	1	1	1	1	1	1	1	9
+RA55000117	Kenidi Canário	19	1171.99	2	1	3	1	8	Rua Almeida Góis	195	Vila Gumercindo	São Paulo	SP	04131-040	1	1	1	1	1	1	1	9
+RA55000118	Juliezer Brandão	19	1200.99	1	1	3	1	3	Rua Treze de Maio	349	Bela Vista	São Paulo	SP	01327-905	1	1	1	1	1	1	1	10
+RA55000119	Elian Pederneiras Martins	19	778.99	1	1	3	1	6	Praça M'Boi	654	Butantã	São Paulo	SP	05511-030	1	1	1	0	0	0	0	9
+RA55000120	Tandara Fidalgo Baptista Viveiros	19	820.99	1	2	3	1	5	Rua Pedro Barbosa	194	Jardim Marília	São Paulo	SP	03579-130	1	1	1	1	1	1	2	10
+RA55000121	Roseani Cordeiro	19	633.99	1	2	3	1	1	Rua Caetano do Amaral	901	Vila Cruzeiro	São Paulo	SP	03382-130	1	1	1	1	1	1	1	9
+RA55000122	Hidetoshi Quesado Ferro	19	722.99	1	1	3	1	4	Rua Almeida Araújo	681	Jardim Santa Etelvina	São Paulo	SP	08470-815	2	2	2	2	2	2	2	10
+RA55000123	Renira Lopes	19	653.99	1	2	3	1	7	Rua Sargento Paulo Moreira	688	Conjunto Habitacional Marechal Mascarenhas de Morais	São Paulo	SP	03977-160	1	1	1	1	1	1	1	10
+RA55000124	Wilka Negreiros Curado	19	880.99	1	1	3	1	4	Avenida Marechal Tito	689	Jardim Silva Teles	São Paulo	SP	08160-505	1	1	1	1	1	1	1	9
+RA55000125	Edpo Guerra	19	1084.99	1	1	3	1	2	Avenida Agami	100	Indianópolis	São Paulo	SP	04522-906	1	1	1	1	1	1	1	9
+RA55000126	Leilane Rebotim	19	1108.99	2	2	3	1	6	Rua Onofre Pinto	15	Jardim Lajeado	São Paulo	SP	08441-211	1	1	1	1	1	1	1	10
+RA55000127	Elosina Bonilha Baptista	19	860.99	1	2	3	1	1	Rua Nossa Senhora da Paz	485	Jardim Almeida	São Paulo	SP	04866-245	1	1	1	1	1	1	1	10
+RA55000128	Marcon Chaves Rijo Nolasco	19	844.99	1	1	3	1	8	Rua Treze de Maio	471	Jardim Campo Limpo (Zona Norte)	São Paulo	SP	02362-075	1	1	1	1	1	1	1	10
+RA55000129	Anislene Falcão Cabeça De Vaca Santos	19	695.99	1	2	3	1	7	Praça da Sé	631	Sé	São Paulo	SP	01001-901	1	1	1	0	0	1	1	9
+RA55000130	Wexley Chagas Gouveia	19	1000.99	1	1	3	1	2	Rua Marconi	585	Centro	São Paulo	SP	01047-910	1	1	1	0	0	1	1	10
+RA55000131	Jaciro Camelo	19	662.99	1	1	3	1	6	Rua Soneto de Agosto	641	Jardim Santa Lucrécia	São Paulo	SP	05185-430	1	1	1	1	1	1	1	9
+RA55000132	Wilderson Meneses Félix Espargosa	19	1040.99	1	1	3	1	2	Rua João Pires	702	Mooca	São Paulo	SP	03168-060	1	1	1	0	0	0	1	9
+RA55000133	Walleska Barros Ferraço Guedes	19	2098.98	1	2	3	2	3	Rua 9 de Setembro	652	Chácara Gaivotas	São Paulo	SP	04849-333	1	1	1	1	1	1	1	10
+RA55000134	Jandilson Belém Alcaide Chamusca	19	1664.98	2	1	3	2	9	Rua Flor de Maio	247	Parque das Flores	São Paulo	SP	08391-435	1	2	2	1	1	1	1	10
+RA55000135	Eugene Saltão	19	1510.99	1	1	3	2	5	Rua Sargento Olício Alves	48	Vila Campo Grande	São Paulo	SP	04455-180	1	1	1	1	1	1	1	9
+RA55000136	Norran Barroca Marques	19	1320.99	1	1	3	2	2	Rua João Pires	702	Mooca	São Paulo	SP	03168-060	1	1	1	0	0	0	0	10
+RA55000137	Marcoaurelio Landim Ginjeira Capucho	19	1960.98	1	1	3	1	2	Rua Nove de Julho	677	Santo Amaro	São Paulo	SP	04739-900	1	1	1	1	1	1	0	10
+RA55000138	Cristieli Mieiro	19	1671.98	1	2	3	2	6	Rua Diogo Barbosa	435	Vila Marari	São Paulo	SP	04403-210	1	1	1	1	1	1	1	10
+RA55000139	Serlane Saltão Pessoa Canto	19	2012.98	1	2	3	2	2	Rua Major João Nunes	800	Jardim São Paulo(Zona Norte)	São Paulo	SP	02046-070	1	1	1	1	1	1	1	9
+RA55000140	Rimundo Botelho Milheiro Jorge	19	1449.99	2	1	3	2	4	Rua Monsenhor Anacleto	339	Brás	São Paulo	SP	03003-020	1	1	1	1	1	1	1	9
+RA55000141	Damaris Mont'Alverne Bivar	19	1386.99	1	2	3	1	1	Rua Dona Domitila	252	Vila Ponte Rasa	São Paulo	SP	03882-180	1	1	1	0	0	0	1	10
+RA55000142	Valdereide Júdice Cipriano	19	1907.98	1	2	3	2	5	Rua Capitão João Noronha	747	Parque Mandaqui	São Paulo	SP	02418-050	1	1	1	1	1	1	1	10
+RA55000143	Valdizete Valadão	19	2121.98	1	2	3	2	6	Rua Trinta e Um de Outubro	686	Lauzane Paulista	São Paulo	SP	02442-165	1	1	1	0	0	0	0	10
+RA55000144	Carice Alcoforado	19	1299.99	2	2	3	1	3	Rua São Pedro	208	Recanto Verde do Sol	São Paulo	SP	08382-110	1	1	1	1	1	1	1	10
+RA55000145	Albertoni Furquim Barata	19	2331.98	1	1	3	2	4	Avenida Valle	752	Parque Paulistano	São Paulo	SP	08081-070	1	1	1	1	1	0	0	10
+RA55000146	Jatir Câmara Jorge Águeda	19	1636.99	2	1	3	1	9	Rua Ruiva	987	Brasilândia	São Paulo	SP	02844-110	1	1	1	1	1	1	1	10
+RA55000147	Vagnei Infante Ventura Teodoro	19	1934.98	1	1	3	2	1	Rua Rafael Barbosa	976	Jardim Maria Luiza	São Paulo	SP	05371-080	1	1	1	1	1	1	0	9
+RA55000148	Leandra Mexia	19	1926.98	1	2	3	2	8	Rua Major Baracca	906	Parque Edu Chaves	São Paulo	SP	02232-000	1	1	1	1	1	1	1	10
+RA55000149	Goreth Travassos Mourinho Parracho	19	1877.98	1	2	3	2	9	Rua São Marcos	547	Chácara Gaivotas	São Paulo	SP	04849-314	1	1	1	1	1	1	1	9
+RA55000150	Shana Rosmaninho Raposo	19	1544.99	2	2	3	1	3	Rua Monsenhor Anacleto	467	Brás	São Paulo	SP	03003-020	1	1	1	1	1	1	1	10
+RA55000151	Agnus Carrasqueira Mangueira	19	2052.98	1	1	3	2	8	Rua Pedro Doll	912	Santana	São Paulo	SP	02404-001	2	1	1	1	1	1	1	6
+RA55000152	Venise Cambezes Lobo Távora	19	2432.98	1	2	3	2	1	Rua Vinte e Quatro de Dezembro	307	Vila Dom Pedro II	São Paulo	SP	02241-050	1	1	1	1	1	1	1	7
+RA55000153	Joseph Parafita Nazário	19	1426.99	1	1	3	1	4	Rua São Judas	868	Condomínio Jequirituba	São Paulo	SP	04851-604	1	1	1	1	1	1	1	6
+RA55000154	Lariel Pardo	19	1365.99	1	1	3	2	8	Rua Vinte e Sete de Setembro	464	Cidade Nova Heliópolis	São Paulo	SP	04235-040	0	0	0	0	0	1	0	8
+RA55000155	Rusivel Laranjeira Fontoura Palos	19	2411.98	1	1	3	2	7	Praça Rui Corá	586	Vila Matilde	São Paulo	SP	03517-035	1	1	1	1	1	1	1	7
+RA55000156	Iore Setúbal Lima	19	2407.98	1	1	3	2	9	Avenida Marechal Tito	338	Jardim Silva Teles	São Paulo	SP	08160-505	1	1	1	1	1	1	1	7
+RA55000157	Waltemberg Castelhano	19	1685.98	1	1	3	1	7	Rua Major Marcelino	634	Brás	São Paulo	SP	03025-020	1	1	1	1	1	1	1	6
+RA55000158	Adebrair Mamouros	19	1901.98	1	1	3	2	2	Avenida Marechal Tito	891	Jardim Silva Teles	São Paulo	SP	08160-495	2	2	2	1	1	2	2	6
+RA55000159	Josefi Milheiro Lucas Garcez	19	1678.98	1	1	3	2	1	Rua do Buruí	716	Parque Casa de Pedra	São Paulo	SP	02320-170	1	1	1	1	1	1	1	8
+RA55000160	Eshiley Janes	19	1460.99	2	2	3	2	5	Praça da Sé	631	Sé	São Paulo	SP	01001-901	2	1	1	1	1	1	1	8
+RA55000161	Valterli Barbalho Abasto Figueiroa	19	2292.98	2	1	3	1	8	Avenida Iraí	894	Indianópolis	São Paulo	SP	04082-907	2	2	2	1	1	1	1	6
+RA55000162	Lucileni Mondragão Valadares Sacramento	19	1910.98	1	2	3	2	9	Rua Trio Arquiduque	434	Jardim São Bernardo	São Paulo	SP	04844-520	1	1	1	1	1	1	1	8
+RA55000163	Gecimara Lousada Candal Robalinho	19	1837.98	1	2	3	2	9	Rua Capitão Rangel	574	Vila São Geraldo	São Paulo	SP	03607-100	1	1	1	1	1	2	1	8
+RA55000164	Randolfo Noite Neres Silvestre	19	1402.99	2	1	3	2	6	Praça Elfos	92	Jardim Marajoara	São Paulo	SP	04664-090	2	2	2	1	1	2	2	6
+RA55000165	Suria Gameiro Carrasco Bogado	19	2004.98	1	2	3	2	1	Rua Marechal Marques Porto	22	Jardim Caguassu	São Paulo	SP	03906-020	2	1	1	1	1	1	1	7
+RA55000166	Deuvane Festas Félix Bezerra	19	1844.98	1	1	3	2	8	Rua Dom Valentim	536	Jardim Colombo	São Paulo	SP	05629-040	1	1	1	1	1	1	1	7
+RA55000167	Demercino Ramires	19	1952.98	1	1	3	2	9	Rua Monsenhor Anacleto	13	Brás	São Paulo	SP	03003-020	1	1	1	1	1	1	1	6
+RA55000168	Alcidi Póvoas	19	2295.98	1	1	3	1	9	Rua Soldado Aristides Gouveia	76	Parque Novo Mundo	São Paulo	SP	02188-090	1	1	1	1	1	1	1	8
+RA55000169	Eliziaro Barrico	19	2099.98	1	1	3	1	9	Avenida Agami	715	Moema	São Paulo	SP	04522-001	2	1	1	1	1	1	1	6
+RA55000170	Cleivison Neves	19	1358.99	1	1	3	2	2	Rua Doze de Outubro	921	União de Vila Nova	São Paulo	SP	08071-072	1	1	1	1	1	1	1	8
+RA55000171	Ramos Mont'Alverne	19	1343.99	1	1	3	2	8	Rua Carapuruí	62	Alto da Lapa	São Paulo	SP	05059-050	1	1	1	1	1	1	1	6
+RA55000172	Ambrosio Melo Rego	19	1544.99	1	1	3	2	5	Rua Major Júlio Valente	218	Parque Doroteia	São Paulo	SP	04474-310	2	2	1	1	1	1	2	7
+RA55000173	Adrielly Freixo	19	1394.99	1	2	3	2	3	Rua N	349	Jardim Brasília (Zona Norte)	São Paulo	SP	02857-065	1	1	1	1	1	1	1	6
+RA55000174	Vando Farias Lages Monjardim	19	2375.98	1	1	3	2	2	Rua Marcos Freire	579	Jardim Nova Conquista	São Paulo	SP	08346-580	1	1	1	1	1	1	1	6
+RA55000175	Adarilson Leitão Ferro	19	1660.98	1	1	3	1	7	Rua Pedro Feres	608	Água Branca	São Paulo	SP	05042-030	2	2	1	1	1	1	2	7
+RA55000176	Firminia Vilariça	19	1786.98	1	2	3	1	3	Rua Pedro Barbosa	194	Jardim Marília	São Paulo	SP	03579-130	2	1	1	1	1	1	1	7
+RA55000177	Valdesson Machado Dinis	19	2195.98	1	1	3	2	2	Rua Sete de Abril	277	Parque Primavera	São Paulo	SP	04467-285	1	1	1	1	1	1	1	8
+RA55000178	Maxuell Baião Carvalhoso Carregueiro	19	1803.98	1	1	3	1	8	Rua Soneto de Agosto	641	Jardim Santa Lucrécia	São Paulo	SP	05185-430	2	2	1	1	1	1	1	8
+RA55000179	Ketile Gusmão Mesquita	20	1747.56	1	2	4	2	4	Rua A	587	Jardim Elizabeth	São Paulo	SP	08320-685	1	1	1	1	1	1	1	7
+RA55000180	Adavio Medina Linhares	20	1938.56	1	1	4	1	9	Praça Gute	947	Vila Mariana	São Paulo	SP	04118-110	2	2	1	1	1	1	2	8
+RA55000181	Vanin Adarga Milheirão	20	1364.57	1	1	4	2	1	Rua Três de Maio	864	Vila Clementino	São Paulo	SP	04044-020	1	1	1	1	1	1	1	8
+RA55000182	Laerte Morais Aquino	20	1726.56	1	2	4	2	8	Praça Rui Corá	586	Vila Matilde	São Paulo	SP	03517-035	2	1	1	1	1	1	1	7
+RA55000183	Gessimar Sesimbra Sampaio	20	2175.56	1	2	4	2	7	Rua São José	272	Chácara Gaivotas	São Paulo	SP	04849-316	1	1	1	1	1	1	1	7
+RA55000184	Macelle Sequeira Paula	20	2202.56	1	2	4	1	8	Rua Bonifácio Ruiz	306	Conjunto Promorar São Luis	São Paulo	SP	05846-200	1	1	1	1	1	1	1	8
+RA55000185	Beliza Aires Lagos	20	1847.56	1	2	4	2	1	Rua Major Baracca	906	Parque Edu Chaves	São Paulo	SP	02232-000	1	1	1	1	1	1	1	8
+RA55000186	Alafi Peralta Rosado	20	2282.56	2	1	4	2	1	Avenida Nove de Julho	186	Jardim Paulista	São Paulo	SP	01407-902	1	1	1	1	1	1	1	7
+RA55000187	Daniara Matias Ponte	20	1371.56	1	2	4	2	5	Rua Sete de Abril	772	Centro	São Paulo	SP	01044-907	2	1	1	1	1	1	1	7
+RA55000188	Orleia Cavalheiro Franqueira Rocha	20	1696.56	1	2	4	2	3	Rua Treze de Janeiro	374	Americanópolis	São Paulo	SP	04336-080	1	1	1	1	1	1	1	8
+RA55000189	Olvides Jobim Negreiros Clementino	20	1659.56	1	1	4	2	6	Rua Marechal Mello Ararigbóia	289	Vila Francos	São Paulo	SP	02880-060	1	1	1	1	1	1	1	6
+RA55000190	Ananilda Milheiriço Cancela Canário	20	1745.56	1	2	4	2	9	Rua Soneto de Agosto	641	Jardim Santa Lucrécia	São Paulo	SP	05185-430	0	0	0	0	0	0	0	6
+RA55000191	Ermesson Sarmento Anjos	20	1597.56	1	1	4	2	7	Avenida Iraí	894	Indianópolis	São Paulo	SP	04082-907	1	1	1	1	1	1	1	8
+RA55000192	Virgulino Barbalho Grilo	20	2188.56	1	1	4	1	7	Rua Elias de Almeida	953	Parque Casa de Pedra	São Paulo	SP	02319-120	1	1	1	1	1	1	1	7
+RA55000193	Otero Galindo Lemes Carvalho	20	1948.56	2	1	4	2	6	Rua Vinte e Um de Abril	334	Jardim Colibri	São Paulo	SP	04855-620	2	2	1	1	1	1	1	6
+RA55000194	Leide Lemes Baptista	20	1644.56	1	1	4	2	9	Rua Pedro Cubas	738	Piqueri	São Paulo	SP	02913-000	1	1	1	1	1	1	1	6
+RA55000195	Raine Soverosa Lucena	20	1858.56	1	2	4	2	3	Rua Dezenove de Julho	875	Jardim São José (Zona Norte)	São Paulo	SP	02971-040	1	1	1	1	1	1	1	7
+RA55000196	Vlamir Ponte	20	2288.56	1	1	4	2	6	Rua Marco Martini	861	Jardim Dona Deolinda	São Paulo	SP	08032-580	1	1	1	1	1	1	1	8
+RA55000197	Egomar Vides	20	2103.56	1	1	4	2	1	Rua Dom Rosalvo	343	Sumarezinho	São Paulo	SP	05442-903	1	1	1	1	1	1	1	8
+RA55000198	Carminda Casado Franca	20	2027.56	1	2	4	2	1	Rua Rainha-do-Bosque	864	Vila Santa Inês	São Paulo	SP	03812-030	2	1	1	1	1	1	1	8
+RA55000199	Melice Gameiro Madruga	20	1845.56	1	2	4	2	2	Rua Silva Pinto	972	Bom Retiro	São Paulo	SP	01126-010	2	1	1	1	1	1	1	7
+RA55000200	Recenvindo Souto Maior Onofre Souto	20	2058.56	1	1	4	2	5	Rua Manuel Pinto	121	Jardim Eliza	São Paulo	SP	05776-460	1	1	1	1	1	1	1	6
+RA55000201	Itiel Pais	20	1638.56	1	1	4	2	9	Praça Gute	947	Vila Mariana	São Paulo	SP	04118-110	1	1	1	1	1	1	2	7
+RA55000202	Azeli Bicalho Prada Martins	20	1392.56	2	2	4	1	6	Avenida Dois	60	Colônia (Zona Leste)	São Paulo	SP	08260-430	2	2	2	2	2	2	2	6
+RA55000203	Cleisiane Penha Camilo	20	1917.56	1	2	4	2	8	Rua São Pedro	138	Jardim Raposo Tavares	São Paulo	SP	05551-080	1	1	2	1	2	2	2	7
+RA55000204	Dejalmir Cruz Ventura	20	2186.56	1	1	4	2	1	Avenida Onze de Junho	167	Vila Clementino	São Paulo	SP	04041-000	2	2	2	2	2	2	2	7
+RA55000205	Afonsina Brás	20	1822.56	1	2	4	2	9	Rua Quinze de Novembro	993	Centro	São Paulo	SP	01013-907	2	1	1	1	1	1	1	8
+RA55000206	Edneuma Paião	20	1760.56	1	2	4	2	4	Rua São Pedro	208	Recanto Verde do Sol	São Paulo	SP	08382-110	1	1	2	1	2	2	2	8
+RA55000207	Nilciene Vergueiro	20	1264.57	1	2	4	1	2	Rua Capitão Salomão	840	Centro	São Paulo	SP	01034-020	2	1	1	1	1	1	1	7
+RA55000208	Keli Andrade Piteira Cunha	20	2246.56	1	2	4	1	4	Rua Duque da Terceira	930	Jardim Maristela	São Paulo	SP	02807-030	1	2	2	2	2	2	2	6
+RA55000209	Rosimere Caniça	20	1559.56	1	2	4	2	3	Rua São Pedro	138	Jardim Raposo Tavares	São Paulo	SP	05551-080	2	2	1	1	1	1	2	7
+RA55000210	Vilmon Ourique Bessa Quintal	20	2372.56	1	1	4	2	5	Rua São Judas	46	Condomínio Jequirituba	São Paulo	SP	04851-604	1	2	1	1	1	1	1	7
+RA55000211	Raimund Guerra Sales	20	1827.56	2	1	4	1	9	Avenida Moaci	772	Planalto Paulista	São Paulo	SP	04093-901	2	2	2	2	2	2	2	8
+RA55000212	Tabata Frajuca Teixeira Cabreira	20	1631.56	1	2	4	2	9	Rua Capitão João Noronha	747	Parque Mandaqui	São Paulo	SP	02418-050	2	2	2	1	1	2	2	7
+RA55000213	Adilsson Cancela Cangueiro	20	1763.56	1	1	4	2	3	Avenida Iraí	894	Indianópolis	São Paulo	SP	04082-907	2	2	2	2	2	2	2	8
+RA55000214	Ene Cerqueira Mourão França	20	2092.56	1	1	4	1	1	Rua 9 de Setembro	652	Chácara Gaivotas	São Paulo	SP	04849-333	1	1	1	0	0	0	1	7
+RA55000215	Rilderson Cartaxo Muniz	20	2309.56	1	1	4	2	7	Avenida Dezenove de Janeiro	320	Vila Carrão	São Paulo	SP	03449-000	1	1	1	1	1	1	1	7
+RA55000216	Geriane Pederneiras	20	2395.56	1	2	4	2	4	Praça da Sé	358	Sé	São Paulo	SP	01001-901	2	2	2	1	1	1	2	7
+RA55000217	Rosevelton Borja Dâmaso	20	1831.56	1	1	4	1	9	Rua Dom Lino	945	Luz	São Paulo	SP	01103-070	1	1	1	1	1	1	1	8
+RA55000218	Feli Barroca Brião Rebocho	20	1291.57	2	2	4	2	1	Rua Monsenhor Anacleto	13	Brás	São Paulo	SP	03003-020	2	2	2	2	2	1	2	8
+RA55000219	Gideao Vilhena Cerveira	20	1873.56	1	1	4	1	1	Rua Diogo Barbosa	435	Vila Marari	São Paulo	SP	04403-210	2	2	2	2	2	2	1	7
+RA55000220	Vando Frade	20	1451.56	1	1	4	1	3	Avenida Ceci	848	Planalto Paulista	São Paulo	SP	04065-000	1	1	1	1	1	1	1	8
+RA55000221	Maro Galvão Atilano	20	2328.56	1	1	4	1	3	Rua Marechal Morais Âncora	434	Jardim Maria Luiza	São Paulo	SP	05371-000	2	2	2	2	2	2	1	8
+RA55000222	Lina Freixo	20	2421.55	1	2	4	2	3	Rua Sargento Jorge Monçores	819	Conjunto Habitacional Marechal Mascarenhas de Morais	São Paulo	SP	03977-320	2	2	2	2	2	2	2	7
+RA55000223	Gilce Sousa Rosado	20	1538.56	2	2	4	1	9	Rua Major Marcelino	634	Brás	São Paulo	SP	03025-020	2	2	1	1	1	1	2	6
+RA55000224	Wignes Estrada Carreira Rua	20	1675.56	1	1	4	2	4	Rua 5 de Outubro	841	Chácara Gaivotas	São Paulo	SP	04849-309	2	2	2	2	2	2	2	8
+RA55000225	Josanildo Caldeira Baião	20	2002.56	1	1	4	2	1	Rua Nossa Senhora da Paz	485	Jardim Almeida	São Paulo	SP	04866-245	2	2	1	1	1	1	1	7
+RA55000226	Crenilza Salgado Brião Gravato	20	2409.55	1	2	4	2	8	Rua Sargento Agostinho Ferreira	927	Vila Maria	São Paulo	SP	02129-001	1	1	1	1	1	1	1	6
+RA55000227	Aglaete Valadão	20	1697.56	1	2	4	2	6	Rua Marechal Mello Ararigbóia	289	Vila Francos	São Paulo	SP	02880-060	2	2	2	1	1	1	1	7
+RA55000228	Katieli Rosa Jordão	20	1470.56	1	2	4	2	5	Rua Cinco de Maio	942	Vila Esperança	São Paulo	SP	03651-030	2	2	1	1	1	1	2	8
+RA55000229	Marilza Amorim Damásio	20	1786.56	1	2	4	1	3	Avenida Dezenove de Janeiro	320	Vila Carrão	São Paulo	SP	03449-000	1	1	1	1	2	2	1	6
+RA55000230	Meire Fontes Pontes Botica	20	2126.56	1	2	4	2	6	Praça Guarus	280	Parque do Lago	São Paulo	SP	04944-160	1	1	1	1	1	1	1	7
+RA55000231	Kemilly Quintas	20	1902.56	1	2	4	1	1	Rua João Canzi	697	Jardim Patente	São Paulo	SP	04243-090	2	1	1	1	1	1	2	6
+RA55000232	Salus Furtado Garcez Sampaio	20	2077.56	1	1	4	2	4	Rua Três de Maio	864	Vila Clementino	São Paulo	SP	04044-020	2	2	2	2	2	2	2	6
+RA55000233	Mailde Rosmaninho Barcelos	20	1586.56	1	1	4	1	5	Rua Monsenhor Salim	959	Itaim Paulista	São Paulo	SP	08111-180	1	1	1	1	1	1	1	6
+RA55000234	Madson Mafra	20	1979.56	1	1	4	2	2	Rua Dom Aguirre	13	Vila Sofia	São Paulo	SP	04671-245	2	1	1	1	1	1	1	8
+RA55000235	Leossandro Lopes Freixo Almada	20	1977.56	1	1	4	2	4	Rua Vinte e Dois de Abril	329	Lajeado	São Paulo	SP	08450-420	2	1	1	1	1	1	1	7
+RA55000236	Eliardo Rebocho Abelho	20	2071.56	1	1	4	2	3	Rua Vandoma	788	Parque Cocaia	São Paulo	SP	04850-170	2	2	1	1	2	2	2	8
+RA55000237	Nadilene Fraga	20	1583.56	1	2	4	2	7	Praça da Sé	871	Sé	São Paulo	SP	01001-901	1	1	1	1	1	1	1	6
+RA55000238	Geissiane Cesário Cascais	20	1326.57	1	2	4	1	3	Praça Félix	787	Vila Sílvia	São Paulo	SP	03820-210	1	2	1	1	2	2	2	7
+RA55000239	Irivelto Macieira Calado Quina	20	1257.57	2	1	4	2	7	Rua 5 de Outubro	841	Chácara Gaivotas	São Paulo	SP	04849-309	1	1	1	1	1	1	1	8
+RA55000240	Erandes Caçoilo Rosmaninho Avelar	20	2357.56	1	1	4	1	4	Rua C	501	Jardim Santa Cruz (Sacomã)	São Paulo	SP	04182-135	2	2	2	2	2	2	2	6
+RA55000241	Keliani Velasques Boga Carvalhal	20	2389.56	1	2	4	1	4	Praça da Sé	871	Sé	São Paulo	SP	01001-901	1	1	1	1	1	1	1	7
+RA55000242	Juranildo Festas	20	2403.56	1	1	4	2	5	Rua Pedro Doll	912	Santana	São Paulo	SP	02404-001	2	2	2	1	1	2	2	8
+RA55000243	Egnalva Andrade Gouveia Caldas	20	2360.56	1	2	4	2	6	Rua Nove de Julho	501	Santo Amaro	São Paulo	SP	04739-900	2	2	1	1	1	1	2	6
+RA55000244	Gladison Leal Anjos	20	1839.56	1	1	4	2	1	Rua André de Almeida	410	Cidade São Mateus	São Paulo	SP	03950-000	2	1	1	1	1	1	2	7
+RA55000245	Verenilda Veiga	20	1433.56	1	2	4	2	1	Avenida Duquesa de Goiás	792	Real Parque	São Paulo	SP	05686-900	1	1	1	1	1	2	2	7
+RA55000246	Etison Castro	20	2024.56	1	1	4	1	3	Rua Albina Barbosa	289	Aclimação	São Paulo	SP	01530-020	1	1	1	1	1	1	1	7
+RA55000247	Vanderlani Negreiros Bulhões Faro	20	1558.56	1	2	4	2	5	Rua Marechal Silva Fonseca	104	Jardim Três Marias	São Paulo	SP	03676-030	2	2	2	1	1	1	2	6
+RA55000248	Ladilson Naves	20	1991.56	1	1	4	2	1	Rua N	126	Furnas	São Paulo	SP	02323-280	2	2	2	2	2	1	1	7
+RA55000249	Gutierres Galindo	20	1434.56	1	1	4	2	2	Rua Primeiro de Janeiro	706	Vila Clementino	São Paulo	SP	04044-060	1	2	2	2	2	2	2	6
+RA55000250	Degivan Seabra Homem Marinho	20	1314.57	1	1	4	2	5	Rua João Pires	702	Mooca	São Paulo	SP	03168-060	2	1	1	1	1	1	1	8
+RA55000251	Altielis Palmeira	20	2409.55	2	1	4	1	2	Rua Marino Pinto	894	Jardim Palmares (Zona Sul)	São Paulo	SP	04457-090	2	1	1	1	2	2	2	8
+RA55000252	Mikiko Faria Amaro Caparica	20	1842.56	1	2	4	2	1	Rua Elias de Almeida	953	Parque Casa de Pedra	São Paulo	SP	02319-120	2	2	2	2	2	2	1	7
+RA55000253	Mirlani Júdice Vasques Marçal	20	2069.56	2	2	4	2	9	Rua João Pujol	954	Vila Dona Sara	São Paulo	SP	03471-020	2	2	2	2	2	2	2	7
+RA55000254	Dafine Frota Alcântara Braga	20	2016.56	1	2	4	1	2	Praça da Sé	871	Sé	São Paulo	SP	01001-901	1	1	1	1	1	1	1	8
+RA55000255	Scheila Dâmaso Barroqueiro Monsanto	20	1549.56	1	2	4	2	5	Avenida Duquesa de Goiás	792	Real Parque	São Paulo	SP	05686-900	1	1	1	1	1	1	1	7
+RA55000256	Charlan Rua	20	1761.56	2	1	4	1	4	Praça Yedo	133	Vila Maria Alta	São Paulo	SP	02134-050	3	2	2	2	2	2	2	7
+RA55000257	Ijanira Feira Sesimbra Moreno	20	1618.56	1	2	4	2	2	Rua Almeida Araújo	681	Jardim Santa Etelvina	São Paulo	SP	08470-815	1	1	1	1	1	1	1	8
+RA55000258	Geslani Almada	20	2110.56	1	2	4	1	4	Avenida Onze de Junho	167	Vila Clementino	São Paulo	SP	04041-000	1	1	2	1	2	2	2	8
+RA55000259	Leide Cerqueira Malta	20	1961.56	1	1	4	2	3	Rua A	762	Jardim Santa Cruz (Sacomã)	São Paulo	SP	04182-125	2	2	2	2	2	2	2	8
+RA55000260	Larisa Monforte	20	2413.55	1	2	4	1	2	Rua Monsenhor Anacleto	467	Brás	São Paulo	SP	03003-020	1	1	1	1	1	1	1	7
+RA55000261	Joeslei Maciel Alvelos	20	2263.56	1	1	4	1	3	Rua São Marun	19	Chácara Itaim	São Paulo	SP	04543-017	2	2	1	1	2	2	2	7
+RA55000262	Alicie Festas	20	1446.56	1	2	4	2	2	Avenida Nove de Julho	648	Jardim Paulista	São Paulo	SP	01407-905	2	2	2	1	1	1	1	7
+RA55000263	Odilaine Ramires Caneira Parracho	20	2155.56	1	2	4	1	5	Rua H	161	Jardim Mar Lune	São Paulo	SP	04874-120	2	2	2	2	2	2	2	7
+RA55000264	Adinaldo Brochado Ninharelhos Viveiros	20	1540.56	1	1	4	1	4	Rua Duque da Terceira	930	Jardim Maristela	São Paulo	SP	02807-030	2	2	2	2	2	2	2	6
+RA55000265	Nilvana Rijo Farias	20	1720.56	1	2	4	1	6	Rua Rui Barbosa	229	Bela Vista	São Paulo	SP	01326-010	2	2	2	1	1	1	2	8
+RA55000266	Cerilo Cidreira Freitas Carrasco	20	1438.56	1	1	4	2	6	Rua Duque Costa	420	Vila Sofia	São Paulo	SP	04671-160	2	2	2	2	2	2	2	8
+RA55000267	Igrid Lamenha	20	2220.56	1	2	4	2	2	Rua Duque Costa	420	Vila Sofia	São Paulo	SP	04671-160	2	2	2	2	2	1	1	8
+RA55000268	Oriel Aveiro Inês Úria	20	1333.57	2	1	4	2	5	Rua Major Júlio Valente	218	Parque Doroteia	São Paulo	SP	04474-310	2	2	2	2	2	2	2	6
+RA55000269	Rino Lima Milheirão Bulhões	20	1732.56	1	1	4	1	4	Rua Nossa Senhora da Luz	782	Vila Gustavo	São Paulo	SP	02250-210	2	2	2	2	2	2	1	7
+RA55000270	Edglay Palmeira Macedo Simões	20	1578.56	1	1	4	2	9	Rua Dona Domitila	252	Vila Ponte Rasa	São Paulo	SP	03882-180	2	2	1	1	2	2	2	8
+RA55000271	Aldo Teves	20	1735.56	1	1	4	1	8	Rua Quatro de Agosto	14	Saúde	São Paulo	SP	04053-060	1	1	1	1	1	1	1	6
+RA55000272	Jadete Cortesão	20	2343.56	2	2	4	2	7	Rua A	587	Jardim Elizabeth	São Paulo	SP	08320-685	1	1	1	1	1	1	1	7
+RA55000273	Lusvania Gago Damasceno Santiago	20	1936.56	1	2	4	1	7	Praça Félix	787	Vila Sílvia	São Paulo	SP	03820-210	2	2	2	2	2	2	2	8
+RA55000274	Adelania Carregueiro Fontoura Ximenes	20	2015.56	1	2	4	2	6	Avenida Dois	60	Colônia (Zona Leste)	São Paulo	SP	08260-430	2	2	1	1	1	1	2	8
+RA55000275	Azaias Vides Melancia Macedo	20	1453.56	1	1	4	1	4	Avenida Nove de Julho	873	Jardim Paulista	São Paulo	SP	01407-907	1	1	1	1	1	1	2	6
+RA55000276	Alini Tuna Franco Veloso	20	2138.56	1	2	4	2	3	Rua Caetano do Amaral	274	Vila Cruzeiro	São Paulo	SP	03382-130	1	1	1	1	1	2	2	6
+RA55000277	Vanezza Negromonte Mariz	20	2222.56	1	2	4	2	6	Praça Sá Pinto	720	Vila Ipojuca	São Paulo	SP	05055-070	2	1	1	1	1	1	1	8
+RA55000278	Mundico Roçadas Pacheco	20	1709.56	2	1	4	2	7	Avenida Ceci	688	Planalto Paulista	São Paulo	SP	04065-004	1	1	1	1	1	1	1	7
+RA55000279	Nariane Soverosa	20	1739.56	1	2	4	1	2	Avenida Nove de Julho	282	Jardim Paulista	São Paulo	SP	01407-902	2	2	2	2	2	2	2	8
+RA55000280	Francielza Caeiro Palos Seixas	20	1317.57	2	2	4	2	1	Rua Treze de Maio	563	Bela Vista	São Paulo	SP	01327-900	2	2	2	2	2	2	2	8
+RA55000281	Marleci Benevides	20	1321.57	1	2	4	2	3	Rua São Jorge	214	Recanto Verde do Sol	São Paulo	SP	08382-117	2	1	1	1	1	1	1	6
+RA55000282	Erc Corte-Real Tomé Ataíde	20	1564.56	1	1	4	2	7	Rua do Buruí	716	Parque Casa de Pedra	São Paulo	SP	02320-170	1	1	1	1	1	1	1	6
+RA55000283	Saviana Brandão Castelhano	20	1424.56	2	2	4	2	1	Rua Cinco de Maio	942	Vila Esperança	São Paulo	SP	03651-030	2	2	2	2	2	2	2	7
+RA55000284	Ismeraldina Aragão	20	1600.56	2	2	4	2	9	Avenida Moaci	772	Planalto Paulista	São Paulo	SP	04093-901	2	2	2	1	1	1	1	7
+RA55000285	Andreis Braga Carqueijeiro	20	1765.56	1	1	4	2	2	Rua do Buruí	876	Parque Casa de Pedra	São Paulo	SP	02320-170	2	2	1	1	2	2	2	8
+RA55000286	Taene Manso Cisneiros	20	1910.56	1	2	4	2	7	Rua São Marcos	547	Chácara Gaivotas	São Paulo	SP	04849-314	2	2	1	1	1	1	1	6
+RA55000287	Nildo Marins	20	2219.56	1	1	4	1	5	Rua Nove de Julho	501	Santo Amaro	São Paulo	SP	04739-900	1	1	1	1	1	1	1	6
+RA55000288	Erma Osório	20	1349.57	1	2	4	1	8	Rua H	161	Jardim Mar Lune	São Paulo	SP	04874-120	1	1	1	1	1	1	1	8
+RA55000289	Ednaldo Mondragão	20	2342.56	2	1	4	2	6	Rua São Jorge	214	Recanto Verde do Sol	São Paulo	SP	08382-117	2	2	1	1	1	2	2	8
+RA55000290	Graciela Valido	20	2135.56	1	2	4	2	9	Rua Sete de Abril	772	Centro	São Paulo	SP	01044-907	2	1	1	1	1	1	2	7
+RA55000291	Risonei Madeira Alvim Cesário	20	2016.56	1	2	4	2	1	Rua Ascensão	47	Jardim Textil	São Paulo	SP	03415-070	2	2	1	2	2	2	2	7
+RA55000292	Hideo Mateus	20	1889.56	1	1	4	2	1	Rua Pedro Cubas	738	Piqueri	São Paulo	SP	02913-000	1	1	1	1	1	1	1	7
+RA55000293	Elizeia Narvais Carregueiro Velasques	20	1785.56	1	2	4	1	2	Rua H	539	Conjunto Residencial Alpes do Jaraguá	São Paulo	SP	05183-380	1	1	1	1	1	1	1	7
+RA55000294	Joferson Carreiro	20	1955.56	1	1	4	2	4	Rua Pedro Lembi	593	Vila Maria Baixa	São Paulo	SP	02110-020	2	2	2	2	2	2	2	8
+RA55000295	Goiani Alvelos	20	2039.56	1	2	4	1	6	Rua Soldado Gentil Guimarães	750	Parque Novo Mundo	São Paulo	SP	02144-010	2	2	2	2	2	2	2	6
+RA55000296	Geocione Caetano Faustino	20	2035.56	1	1	4	2	9	Rua Monsenhor Castro Nery	321	Parque Maria Domitila	São Paulo	SP	05128-010	2	2	2	1	1	1	1	8
+RA55000297	Amaurilho Almada	20	1740.56	2	1	4	1	5	Praça Gute	947	Vila Mariana	São Paulo	SP	04118-110	2	2	1	1	1	1	1	7
+RA55000298	Ranildo Carvalheiro Cedraz	20	1493.56	1	1	4	1	6	Avenida Moaci	772	Planalto Paulista	São Paulo	SP	04093-901	1	1	1	1	1	1	1	6
+RA55000299	Luiz Granja Marmou Mamouros	20	1964.56	1	1	4	2	5	Praça da Sé	358	Sé	São Paulo	SP	01001-901	1	1	1	1	1	1	1	7
+RA55000300	Elielson Carneiro Fonseca Fiães	20	2128.56	2	1	4	1	7	Rua Batista Caetano	419	Aclimação	São Paulo	SP	04108-130	2	2	2	2	2	2	2	6
+RA55000301	Mirian Fogaça	20	2239.56	1	2	4	1	6	Rua São Jorge	214	Recanto Verde do Sol	São Paulo	SP	08382-117	1	1	1	1	1	1	1	5
+RA55000302	Abel Narvais Monjardim	20	1581.56	1	2	4	2	9	Rua Dom João VI	942	Jardim Luzitânia	São Paulo	SP	04032-100	1	2	2	2	2	2	1	4
+RA55000303	Erli Pires	20	2381.56	1	2	4	2	8	Rua Dirceu de Almeida	46	Parque São Domingos	São Paulo	SP	05126-110	2	2	2	1	1	2	2	4
+RA55000304	Wilfrid Gois	20	1389.56	1	1	4	2	6	Rua Major Diogo	495	Bela Vista	São Paulo	SP	01324-001	2	2	2	2	2	2	2	4
+RA55000305	Arilso Carromeu Baião Matosinhos	20	2165.56	1	1	4	1	3	Praça Guarus	280	Parque do Lago	São Paulo	SP	04944-160	2	2	2	2	2	2	2	4
+RA55000306	Germania Gameiro	20	2403.56	1	2	4	2	6	Rua Major Diogo	495	Bela Vista	São Paulo	SP	01324-001	1	1	1	1	1	1	1	4
+RA55000307	Natalha Bogado	20	1671.56	1	2	4	2	6	Rua Albina Barbosa	289	Aclimação	São Paulo	SP	01530-020	2	2	1	1	1	1	2	4
+RA55000308	Valdelite Brásio	20	1953.56	1	2	4	1	5	Avenida Nove de Julho	506	Jardim Paulista	São Paulo	SP	01406-901	1	1	1	1	1	1	1	5
+RA55000309	Radanes Patrício Chainho Valente	20	1925.56	1	1	4	1	8	Rua Capitão Salomão	840	Centro	São Paulo	SP	01034-020	2	2	2	2	2	2	2	4
+RA55000310	Amarilson Mieiro	20	1964.56	1	1	4	1	6	Rua São Pedro	208	Recanto Verde do Sol	São Paulo	SP	08382-110	2	2	2	1	1	1	1	4
+RA55000311	Willimes Alcaide Soverosa	20	2385.56	1	1	4	1	4	Rua Manuel Pinto	121	Jardim Eliza	São Paulo	SP	05776-460	2	2	2	2	2	2	2	4
+RA55000312	Laizza Ramos Barroca	20	1878.56	1	2	4	1	8	Rua São José	272	Chácara Gaivotas	São Paulo	SP	04849-316	2	2	1	1	1	1	1	4
+RA55000313	Claudinei Ouro Ferraço	20	1983.56	2	2	4	1	5	Rua Marechal Pimentel	204	Sacomã	São Paulo	SP	04248-100	2	2	1	1	1	1	1	5
+RA55000314	Lidinei Domingues	20	1638.56	1	1	4	2	9	Praça Oito de Setembro	186	Penha de França	São Paulo	SP	03606-030	2	2	2	2	2	2	2	4
+RA55000315	Marileude Brasil Parreir Espargosa	20	1743.56	1	2	4	2	2	Viela Treze de Abril	495	Jardim Nazareth	São Paulo	SP	08150-750	1	1	1	1	1	2	1	5
+RA55000316	Gleisa Regalado	20	2273.56	1	2	4	2	4	Avenida Sargento Geraldo Sant'Ana	572	Jardim Taquaral	São Paulo	SP	04674-901	2	2	1	1	2	2	2	5
+RA55000317	Capistrano Café Patrício	20	2192.56	1	1	4	2	1	Praça Três de Setembro	892	Vila Alpina	São Paulo	SP	03207-060	2	2	2	1	1	1	1	5
+RA55000318	Adelir Castanheira	20	2122.56	2	1	4	2	9	Praça Gute	947	Vila Mariana	São Paulo	SP	04118-110	1	1	1	1	1	1	1	5
+RA55000319	Alafe Dias	20	1866.56	1	1	4	2	6	Rua Pires de Almeida	58	Vila Pita	São Paulo	SP	02478-130	2	2	2	2	2	2	2	4
+RA55000320	Akeline Conceição Guilheiro	20	2110.56	1	2	4	2	4	Rua Major Dantas Cortez	148	Vila Gustavo	São Paulo	SP	02206-002	2	2	2	1	1	1	1	5
+RA55000321	Giorgio Cavaco Granja Torrado	20	1263.57	1	1	4	1	6	Rua Major Dantas Cortez	117	Vila Gustavo	São Paulo	SP	02206-001	2	2	2	1	1	1	1	5
+RA55000322	Loisiane Caeiro Caminha Carvalhais	20	1533.56	1	2	4	1	5	Praça Caipé	376	Vila Califórnia	São Paulo	SP	03213-010	1	1	1	1	1	1	1	5
+RA55000323	Gilderlane Carregueiro Veloso	20	1811.56	1	2	4	2	1	Rua Monsenhor Salim	959	Itaim Paulista	São Paulo	SP	08111-180	2	2	2	1	1	2	2	5
+RA55000324	Mafran Miguel	20	1595.14	1	1	5	2	7	Rua Almeida Góis	195	Vila Gumercindo	São Paulo	SP	04131-040	2	1	1	1	1	1	1	5
+RA55000325	Gicele Valgueiro	20	1943.14	1	2	5	2	9	Rua Almeida Góis	195	Vila Gumercindo	São Paulo	SP	04131-040	1	1	1	1	1	1	1	4
+RA55000326	Josmari Ramalho	20	1723.14	1	2	5	2	4	Rua Piruini	530	Jardim Jaú (Zona Leste)	São Paulo	SP	03710-110	1	1	1	1	1	1	1	5
+RA55000327	Dioniso Setúbal Gabeira	20	2009.14	2	1	5	2	8	Rua Marechal Malet	251	Parque da Vila Prudente	São Paulo	SP	03140-020	1	1	1	1	1	1	0	5
+RA55000328	Adinael Faro Liberato	20	1375.14	1	1	5	2	7	Rua Vinte e Quatro de Dezembro	633	Vila Dom Pedro II	São Paulo	SP	02241-050	1	1	1	0	0	0	0	4
+RA55000329	Dornelis Farinha Candal	20	1555.14	1	1	5	2	9	Rua Antônio Maio	892	Jardim Previdência	São Paulo	SP	04163-020	2	2	2	2	2	2	2	5
+RA55000330	Wislaine Paranhos Girão	20	2006.14	1	2	5	2	9	Rua André de Almeida	410	Cidade São Mateus	São Paulo	SP	03950-000	2	2	2	2	2	2	1	4
+RA55000331	Ariadma Bastos	20	2108.14	1	2	5	2	6	Rua André de Almeida	565	Jardim Cinco de Julho	São Paulo	SP	03953-085	2	1	1	1	1	1	1	4
+RA55000332	Isabete Veloso Monteiro Espinosa	20	1889.14	1	2	5	2	7	Vila São João	348	Cidade São Mateus	São Paulo	SP	03961-130	1	1	1	1	1	1	0	4
+RA55000333	Jardeci Lima Cabeça	20	2168.13	1	1	5	2	7	Rua Nossa Senhora dos Anjos	21	Chácara Mafalda	São Paulo	SP	03370-055	2	1	1	1	1	1	1	5
+RA55000334	Dulcecleide Gameiro Domingos	20	2058.14	1	2	5	1	2	Praça Alves Barbosa	878	Vila Bonilha	São Paulo	SP	02935-140	1	1	1	1	1	1	1	4
+RA55000335	Ourival Ximenes Xisto Durães	20	2376.13	1	1	5	2	4	Rua São Marun	19	Chácara Itaim	São Paulo	SP	04543-017	1	1	1	1	1	1	1	4
+RA55000336	Tiemi Frazão Durães Marques	20	2066.14	1	2	5	2	5	Rua Rafael Barbosa	976	Jardim Maria Luiza	São Paulo	SP	05371-080	2	2	2	2	2	2	2	4
+RA55000337	Sainara Pontes	20	1574.14	1	2	5	1	8	Rua Flor de Maio	247	Parque das Flores	São Paulo	SP	08391-435	2	2	1	1	1	1	1	5
+RA55000338	Maeli Frota Figueiroa Camarinho	20	1578.14	1	2	5	2	1	Rua São Pedro	208	Recanto Verde do Sol	São Paulo	SP	08382-110	2	2	2	2	2	2	2	5
+RA55000339	Wallisson Medina Barateiro Veiga	20	1728.14	2	1	5	2	6	Rua Capitão José Amaral	995	Vila Portuguesa	São Paulo	SP	02832-110	2	2	2	1	2	2	2	5
+RA55000340	Vivaldi Alvelos Lisboa	20	2130.13	1	1	5	2	8	Rua M	477	Jardim Brasília (Zona Norte)	São Paulo	SP	02857-060	2	2	1	1	1	1	1	5
+RA55000341	Jenifer Protásio Lira Rebelo	20	2136.13	1	2	5	2	3	Vila São João	348	Cidade São Mateus	São Paulo	SP	03961-130	2	2	2	2	2	2	2	4
+RA55000342	Cidemir Aquino	20	2404.13	2	1	5	2	5	Praça Opala	269	Vila Euthalia	São Paulo	SP	03518-065	2	2	2	1	1	2	2	4
+RA55000343	Adevande Pequeno Imperial	20	1366.14	1	1	5	1	4	Rua São João	767	Residencial Sol Nascente	São Paulo	SP	05283-030	1	1	1	1	1	1	1	5
+RA55000344	Alfim Cachoeira	20	2178.13	1	1	5	2	8	Rua Dezenove de Julho	875	Jardim São José (Zona Norte)	São Paulo	SP	02971-040	2	2	1	1	1	1	1	5
+RA55000345	Geovana Gabeira Marins Araújo	20	1509.14	2	2	5	1	6	Rua 5 de Outubro	522	Chácara Gaivotas	São Paulo	SP	04849-309	1	2	1	1	1	1	1	5
+RA55000346	Adjalme Valim	20	1833.14	1	1	5	2	3	Rua Marechal Fontoura	620	Água Fria	São Paulo	SP	02336-050	1	2	1	1	1	1	1	5
+RA55000347	Clausa Gameiro Canedo Adão	20	2014.14	1	2	5	2	8	Rua Joaquim Caetano	994	Cidade Nova América	São Paulo	SP	04897-525	2	2	2	1	1	1	1	4
+RA55000348	Leridiane Tabosa Horta	20	2180.13	1	2	5	1	2	Rua Sargento Sílvio Nunes Miranda	474	Parque Peruche	São Paulo	SP	02532-050	1	1	1	1	1	1	1	5
+RA55000349	Dioenes Ferrão	20	2137.13	1	1	5	2	9	Rua Ilha Maiorca	682	Jardim Guarujá	São Paulo	SP	05877-250	2	2	2	2	2	2	2	4
+RA55000350	Eronilde Borja Vieira	20	1226.14	1	2	5	2	4	Rua São Bruno	741	Jardim São Bento	São Paulo	SP	02525-020	1	1	1	1	1	1	1	4
+RA55000351	Creveraldo Álvaro Félix	20	1773.14	1	1	5	2	8	Rua Doze de Outubro	869	Lapa	São Paulo	SP	05073-900	2	2	2	2	2	2	2	3
+RA55000352	Alison Girão	20	2567.13	1	1	5	1	7	Rua Três de Maio	943	Vila Clementino	São Paulo	SP	04044-020	2	2	2	2	2	2	2	3
+RA55000353	Iranilva Malho Mourato Dutra	20	3534.12	1	2	5	1	3	Rua Flor de Abril	918	Jardim Peri	São Paulo	SP	02651-140	2	2	2	2	2	2	2	2
+RA55000354	Edenio Brião Freiria	20	3629.12	1	1	5	2	6	Rua Major João Nunes	800	Jardim São Paulo(Zona Norte)	São Paulo	SP	02046-070	2	2	2	1	1	1	1	3
+RA55000355	Miria Velasco	20	2605.13	1	2	5	1	6	Rua Marechal Silva Fonseca	104	Jardim Três Marias	São Paulo	SP	03676-030	1	2	1	1	1	1	1	2
+RA55000356	Gerusia Moreno Ventura	20	2485.13	1	2	5	2	5	Rua Ursa Maior	650	Cidade Satélite Santa Bárbara	São Paulo	SP	08330-390	2	2	2	2	2	2	2	3
+RA55000357	Dante Carvalhoso Alvelos Castelo	20	3165.13	1	1	5	1	9	Rua Sargento Agostinho Ferreira	927	Vila Maria	São Paulo	SP	02129-001	2	2	2	2	2	2	2	3
+RA55000358	Josilan Gabeira Regalado Torreiro	20	3505.12	2	1	5	2	6	Rua Dom Aguirre	13	Vila Sofia	São Paulo	SP	04671-245	2	2	2	2	2	2	1	2
+RA55000359	Rosemeire Narvais Sabrosa	20	2821.13	1	2	5	2	3	Rua N	126	Furnas	São Paulo	SP	02323-280	2	2	2	2	2	2	2	3
+RA55000360	Elizeuma Feira	20	2565.13	1	2	5	2	4	Avenida Vinte e Quatro de Fevereiro	868	Vila Rui Barbosa	São Paulo	SP	03734-090	2	2	2	2	2	2	2	2
+RA55000361	Meire Xisto	20	2662.13	1	2	5	2	1	Rua 23 de Novembro	929	Vila Progresso (Zona Leste)	São Paulo	SP	08240-001	2	2	2	2	2	2	1	3
+RA55000362	Lonilda Rosa Reis	20	2944.13	1	2	5	2	3	Rua Vandoma	793	Parque Cocaia	São Paulo	SP	04850-170	2	2	1	1	1	1	2	3
+RA55000363	Benilde Matosinhos	20	2739.13	1	2	5	2	5	Rua Rui Barbosa Lima	441	Vila Curuçá	São Paulo	SP	08030-730	2	2	1	1	1	1	1	3
+RA55000364	Afifi Ouro Fagundes Veríssimo	20	2640.13	1	2	5	2	7	Rua Marechal Morais Âncora	434	Jardim Maria Luiza	São Paulo	SP	05371-000	2	2	2	2	2	2	2	2
+RA55000365	Raiuda Lameiras	20	2960.13	1	2	5	2	7	Rua São Pedro	138	Jardim Raposo Tavares	São Paulo	SP	05551-080	2	2	2	2	2	2	2	2
+RA55000366	Gilson Lagoa Alpuim	20	2450.13	1	1	5	2	5	Rua São Judas	46	Condomínio Jequirituba	São Paulo	SP	04851-604	2	2	2	2	2	2	2	2
+RA55000367	Rosivandro Jobim	20	3248.12	1	1	5	1	6	Rua Capitão Salomão	840	Centro	São Paulo	SP	01034-020	2	2	2	2	2	2	2	3
+RA55000368	Ilma Jordão	20	3316.12	1	2	5	1	2	Rua Frei João	771	Vila Nair	São Paulo	SP	04280-130	2	2	2	2	2	2	2	2
+RA55000369	Eloisy Ventura Murtinho	20	2777.13	1	1	5	1	5	Rua Marechal Deodoro	565	Santo Amaro	São Paulo	SP	04738-900	2	2	1	1	1	1	1	2
+RA55000370	Micael Baião Neiva	20	2982.13	1	1	5	2	4	Rua Vinte de Março	315	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-115	2	2	2	2	2	2	2	2
+RA55000371	Soraia Ferrão	20	3134.13	1	2	5	1	5	Rua Doze de Outubro	921	União de Vila Nova	São Paulo	SP	08071-072	2	2	2	2	2	2	2	2
+RA55000372	Agabo Lemos	20	3544.12	1	1	5	1	1	Rua Rosa de Nossa Senhora	913	Vila Reis	São Paulo	SP	08040-400	2	2	1	1	1	1	1	2
+RA55000373	Deliane Toscano	20	3497.12	1	1	5	2	2	Rua Dez de Julho	594	Cidade Ademar	São Paulo	SP	04404-000	2	3	2	2	2	2	3	2
+RA55000374	Iami Santiago Gomes	20	3382.12	1	2	5	1	6	Praça M'Boi	654	Butantã	São Paulo	SP	05511-030	2	2	2	2	2	2	2	2
+RA55000375	Stacy Flores Galvão Nunes	20	2617.13	1	2	5	2	4	Rua Major Claudiano	49	Vila Gea	São Paulo	SP	04692-030	2	2	1	1	1	1	1	2
+RA55000376	Jorge Durão Adarga Caetano	20	3476.12	1	1	5	2	9	Avenida Onze de Junho	414	Vila Clementino	São Paulo	SP	04041-000	2	2	2	2	2	2	1	3
+RA55000377	Jessikely Barbalho Belmonte Mascarenhas	20	3278.12	1	2	5	2	7	Praça Guarus	280	Parque do Lago	São Paulo	SP	04944-160	2	2	2	2	2	2	2	2
+RA55000378	Tarcisa Santana Carneiro Bouças	20	3406.12	1	2	5	2	8	Rua Dias Barbosa	969	Jardim São Paulo(Zona Leste)	São Paulo	SP	08461-540	2	2	2	2	2	2	2	2
+RA55000379	Leidirene Zarco Ribas Lameira	20	3265.12	2	2	5	2	9	Rua Dom João VI	942	Jardim Luzitânia	São Paulo	SP	04032-100	2	2	2	2	2	2	2	3
+RA55000380	Evandir Cisneiros Viveiros	20	3120.13	1	1	5	2	1	Rua Rio de Janeiro	805	Parque Recreio	São Paulo	SP	04891-230	2	2	1	1	1	1	2	3
+RA55000381	Magnolia Narvais	20	3432.12	1	2	5	1	6	Rua Monsenhor Anacleto	467	Brás	São Paulo	SP	03003-020	2	2	2	2	2	2	2	3
+RA55000382	Tassila Queirós	20	2845.13	1	2	5	1	5	Rua Dom Pedro	498	Jardim Apurá	São Paulo	SP	04470-037	2	2	2	2	2	2	1	2
+RA55000383	Emilly Caçoilo Regodeiro	20	2777.13	1	2	5	1	6	Rua Dom Pedro	498	Jardim Apurá	São Paulo	SP	04470-037	2	2	2	2	2	2	2	2
+RA55000384	Ernandi Boto	20	2897.13	1	1	5	1	3	Rua Caetano Ruyvo	713	Parque Ramos Freitas	São Paulo	SP	02353-060	2	2	2	2	2	2	2	3
+RA55000385	Aldimar Barros Coimbra	20	3431.12	1	2	5	1	5	Avenida Nove de Julho	282	Jardim Paulista	São Paulo	SP	01407-902	2	2	2	2	2	2	2	2
+RA55000386	Merciene Álvaro Quinaz Falcão	20	3519.12	1	2	5	1	2	Rua Marconi	293	Centro	São Paulo	SP	01047-906	2	2	2	2	2	2	2	3
+RA55000387	Deivion Aldeia Gorjão Araújo	20	2837.13	1	1	5	1	2	Rua Batista Caetano	419	Aclimação	São Paulo	SP	04108-130	2	2	2	1	2	2	2	3
+RA55000388	Osmarilda Teixeira	20	2506.13	1	2	5	1	6	Avenida Marechal Tito	891	Jardim Silva Teles	São Paulo	SP	08160-495	2	2	2	2	2	2	1	3
+RA55000389	Kalini Furquim Ximenes Montenegro	20	3101.13	1	2	5	1	4	Rua C	501	Jardim Santa Cruz (Sacomã)	São Paulo	SP	04182-135	2	2	2	1	1	1	1	3
+RA55000390	Jobert Barata Aires Osório	20	3375.12	2	1	5	2	6	Rua Marechal Malet	251	Parque da Vila Prudente	São Paulo	SP	03140-020	2	2	2	1	1	1	1	3
+RA55000391	Gilderlane Padilha Atilano	20	2600.13	1	2	5	2	1	Rua João Pais	348	Jardim Petrópolis	São Paulo	SP	04603-904	2	2	1	1	1	1	1	3
+RA55000392	Nivani Belchior Bouças	20	3506.12	1	2	5	2	9	Praça Ereá	583	Vila Londrina	São Paulo	SP	03731-200	2	2	1	1	1	1	1	3
+RA55000393	Robenio Franqueira Lara	20	3239.12	2	1	5	2	6	Rua Pedro Feres	608	Água Branca	São Paulo	SP	05042-030	2	2	2	2	2	2	2	3
+RA55000394	Ordaisa Castilhos Figueiredo Maciel	20	2472.13	1	2	5	2	9	Rua Emílio Barbosa	875	Vila Prudente	São Paulo	SP	03135-040	2	2	2	2	2	2	1	2
+RA55000395	Aldo Xisto	20	3650.12	1	1	5	2	3	Rua Três de Maio	864	Vila Clementino	São Paulo	SP	04044-020	2	2	1	1	1	1	1	3
+RA55000396	Cleilto Lobo	20	2789.13	1	1	5	2	4	Rua Curruíra	550	Vila Aurora	São Paulo	SP	05186-200	2	2	1	1	1	1	1	3
+RA55000397	Joabe Taveiros Barrocas	20	3399.12	1	1	5	1	5	Rua Sargento Manuel Chagas	18	Parque Novo Mundo	São Paulo	SP	02179-040	2	2	2	2	2	2	2	2
+RA55000398	Irakitan Aveiro	20	3612.12	2	1	5	2	3	Rua D	297	Jardim Mar Lune	São Paulo	SP	04874-190	2	2	2	2	2	2	2	3
+RA55000399	Wallex Lemos Guilheiro Torrado	20	2514.13	2	1	5	2	1	Rua Emílio Barbosa	875	Vila Prudente	São Paulo	SP	03135-040	2	2	2	2	2	2	2	2
+RA55000400	Diles Velasco Vilas Boas Meireles	20	3346.12	1	1	5	1	6	Rua Nossa Senhora da Luz	782	Vila Gustavo	São Paulo	SP	02250-210	2	2	2	2	2	2	2	3
+RA55000401	Aldomario Leme Quesado Narvais	20	2910.13	1	1	5	2	9	Rua Soldado Américo Rodrigues	745	Parque Novo Mundo	São Paulo	SP	02186-020	2	2	1	1	2	2	2	3
+RA55000402	Judene Lampreia	20	2627.13	1	2	5	1	6	Praça M'Boi	904	Butantã	São Paulo	SP	05511-030	2	2	1	1	1	1	1	2
+RA55000403	Audaiza Cardim	20	3371.12	2	2	5	2	6	Rua Dom Pedro	498	Jardim Apurá	São Paulo	SP	04470-037	2	2	1	1	1	1	1	2
+RA55000404	Elivano Farias Martins	23	3160.28	1	1	3	1	3	Rua Nossa Senhora Aparecida	463	Jardim Elizabeth	São Paulo	SP	08320-800	2	2	2	2	2	2	2	2
+RA55000405	Elizel Calado Lara Torres	25	3571.43	1	1	5	2	9	Rua Monsenhor Salim	959	Itaim Paulista	São Paulo	SP	08111-180	2	2	2	2	2	2	1	3
+RA55000406	Leolina Brião Lobo	22	2622.71	2	2	2	2	7	Rua Rosa de Nossa Senhora	913	Vila Reis	São Paulo	SP	08040-400	2	2	1	1	1	1	1	2
+RA55000407	Dicleia Flávio Jardim	22	2985.7	1	2	5	1	7	Rua Rui Barbosa Lima	441	Vila Curuçá	São Paulo	SP	08030-730	2	2	2	2	2	2	2	2
+RA55000408	Suerli Portugal Belo	25	3619.43	1	2	1	2	7	Rua Orestes Barbosa	329	Jardim Palmares (Zona Sul)	São Paulo	SP	04457-000	2	2	1	1	1	1	1	2
+RA55000409	Gerdal Faria Sintra	23	2705.28	1	1	4	2	1	Avenida Marechal Tito	338	Jardim Silva Teles	São Paulo	SP	08160-505	2	2	2	2	2	2	2	2
+RA55000410	Alzenir Lousã Mena	25	2540.44	1	2	5	2	4	Rua Vinte e Oito de Setembro	459	Vila Dom Pedro I	São Paulo	SP	04267-000	2	2	1	1	1	1	1	2
+RA55000411	Enesi Belchior Zarco Mena	23	3584.28	2	2	2	2	4	Rua D	704	Jardim Fontalis	São Paulo	SP	02360-171	2	2	1	1	1	1	1	2
+RA55000412	Maguiane Furquim	25	3491.43	1	2	5	1	9	Rua Ernani Pinto	803	Vila Maria Alta	São Paulo	SP	02128-020	2	2	2	1	1	1	1	2
+RA55000413	Zenildes Mena Fortunato Rosa	22	3441.7	1	2	1	2	5	Rua Sargento-Mor Carvalho	794	Cidade Ademar	São Paulo	SP	04405-080	2	2	2	1	1	1	1	2
+RA55000414	Diovani Carregueiro Malho Lacerda	22	2845.71	1	1	5	2	1	Rua Xavier de Almeida	504	Ipiranga	São Paulo	SP	04211-001	2	2	2	2	2	2	2	2
+RA55000415	Rosinel Salgueiro Gois	23	2665.28	1	1	5	1	9	Rua São João	323	Vila Pereira Barreto	São Paulo	SP	02920-050	2	2	2	1	1	1	2	2
+RA55000416	Evangelista Granja Redondo	22	2461.71	1	1	1	2	3	Rua Marconi	293	Centro	São Paulo	SP	01047-906	2	2	2	1	1	1	1	3
+RA55000417	Indalecia Valcanaia Gonçalves	25	2497.44	1	2	1	2	2	Rua Vinte de Março	315	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-115	1	2	1	1	1	1	2	3
+RA55000418	Wantoni Sequeira Sítima	23	2566.29	1	1	2	2	3	Avenida Nove de Julho	648	Jardim Paulista	São Paulo	SP	01407-905	2	2	2	2	2	2	2	2
+RA55000419	Aronilda Pequeno	22	3181.7	1	2	1	1	7	Avenida Sargento Geraldo Sant'Ana	572	Jardim Taquaral	São Paulo	SP	04674-901	2	2	1	1	1	1	1	2
+RA55000420	Jadiene Jorge Flores Janes	24	2821.86	1	2	5	2	9	Rua Vinte de Março	315	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-115	2	2	1	1	2	2	2	3
+RA55000421	Lina Ferro Leiria Abelho	23	2617.28	1	2	1	2	6	Rua Major Dantas Cortez	148	Vila Gustavo	São Paulo	SP	02206-002	2	2	2	2	2	2	1	2
+RA55000422	Mariella Aleixo Rebouças Trigueiro	24	3191.86	1	2	2	2	6	Rua Major Claudiano	49	Vila Gea	São Paulo	SP	04692-030	2	2	2	2	2	2	2	3
+RA55000423	Edrizia Mendonça Amarante Matos	22	3390.7	1	2	1	1	9	Rua G	937	Conjunto Residencial Alpes do Jaraguá	São Paulo	SP	05183-370	2	2	1	1	1	1	1	2
+RA55000424	Jailane Reino Quintas Muniz	24	2786.86	1	2	4	2	7	Rua Pedro Doll	676	Santana	São Paulo	SP	02404-001	2	2	1	1	1	1	1	2
+RA55000425	Jandilene Martinho Cardoso	23	3227.28	2	2	1	2	8	Rua Onofre Pinto	15	Jardim Lajeado	São Paulo	SP	08441-211	2	3	2	2	2	2	2	2
+RA55000426	Elizeide Cabeça Paranhos	24	5377.84	1	2	1	2	7	Rua Rainha-do-Bosque	864	Vila Santa Inês	São Paulo	SP	03812-030	2	2	2	2	2	2	2	2
+RA55000427	Andrson Porciúncula Cardim Monteiro	22	4076.69	1	1	4	2	5	Praça Monsenhor Macedo	598	Jardim Franca	São Paulo	SP	02338-040	2	2	1	1	1	1	2	2
+RA55000428	Adnael Pontes	25	4461.42	1	1	2	2	8	Praça Yedo	133	Vila Maria Alta	São Paulo	SP	02134-050	2	2	2	2	2	2	2	2
+RA55000429	Guanair Sanches Frajuca Junqueira	22	5499.68	1	1	3	2	9	Rua São Paulo	699	Conjunto Habitacional Turística	São Paulo	SP	05164-133	2	2	2	2	2	2	2	2
+RA55000430	Uesllei Ferreira	24	5860.83	1	1	5	1	7	Avenida Duque de Caxias	893	Santa Efigênia	São Paulo	SP	01214-000	2	2	2	2	2	2	2	3
+RA55000431	Casia Homem Goulão	22	5279.68	1	2	1	2	4	Rua Marechal Xavier da Câmara	200	Jardim das Laranjeiras	São Paulo	SP	02517-190	2	2	2	2	2	2	2	3
+RA55000432	Dirleu Milheiriço Veloso Tabosa	23	4503.27	1	1	1	1	2	Rua Treze de Maio	917	Cantinho do Céu	São Paulo	SP	04849-650	2	2	2	2	2	2	2	3
+RA55000433	Reiner Magalhães	24	4009.85	1	1	1	1	9	Rua São João	767	Residencial Sol Nascente	São Paulo	SP	05283-030	2	2	1	1	1	1	1	2
+RA55000434	Uallace Mourão Fontes	24	4683.84	1	1	3	2	1	Avenida Marechal Tito	891	Jardim Silva Teles	São Paulo	SP	08160-495	2	2	2	2	2	2	2	3
+RA55000435	Jonson Fialho Marmou Padilha	22	3878.7	1	1	2	2	7	Rua Rosa de Nossa Senhora	73	Vila Reis	São Paulo	SP	08040-400	2	2	2	1	1	2	2	3
+RA55000436	Taciso Anes	25	5213.41	1	1	2	1	9	Rua Sete de Junho	453	União de Vila Nova	São Paulo	SP	08072-075	2	2	2	2	2	2	2	2
+RA55000437	Lindalva Covilhã Leite	25	4919.42	1	2	2	2	2	Rua Vinte e Um de Abril	334	Jardim Colibri	São Paulo	SP	04855-620	2	2	2	2	2	2	2	3
+RA55000438	Vilarin Miguel Vilhena	23	5138.26	1	1	3	2	2	Praça Marechal Deodoro	187	Santa Cecília	São Paulo	SP	01150-010	2	2	2	2	2	2	2	3
+RA55000439	Ocelo Cobra	23	3936.27	1	1	3	1	5	Rua D	297	Jardim Mar Lune	São Paulo	SP	04874-190	2	2	2	2	2	2	2	3
+RA55000440	Oiris Soverosa Anes	25	5381.41	1	1	1	2	3	Rua Dom Rosalvo	343	Sumarezinho	São Paulo	SP	05442-903	2	2	1	1	1	1	1	3
+RA55000441	Eudaci Quental Barrela Leite	24	5543.83	2	2	2	2	9	Praça São Marcos	834	Vila Ida	São Paulo	SP	05455-050	2	2	2	2	2	2	1	3
+RA55000442	Amari Fontes	22	6083.67	1	1	1	2	8	Rua Pedro Cubas	738	Piqueri	São Paulo	SP	02913-000	2	2	2	2	2	2	2	3
+RA55000443	Adelario Sales Severo	24	4798.84	1	1	3	2	7	Rua Albina Barbosa	289	Aclimação	São Paulo	SP	01530-020	1	2	1	1	1	1	1	3
+RA55000444	Nires Remígio Neiva	23	5304.26	1	2	1	2	1	Rua Treze de Janeiro	374	Americanópolis	São Paulo	SP	04336-080	2	2	2	2	2	2	1	3
+RA55000445	Wigberto Filipe Boeira Soeiro	23	3833.27	1	1	2	2	7	Rua São Pedro	138	Jardim Raposo Tavares	São Paulo	SP	05551-080	2	2	2	2	2	2	2	2
+RA55000446	Denio Cardoso	23	4349.27	1	1	5	2	7	Rua Sargento Sílvio Nunes Miranda	474	Parque Peruche	São Paulo	SP	02532-050	2	2	1	1	1	1	1	2
+RA55000447	Isauro Semedo	25	5602.41	2	1	3	2	8	Rua Vinte e Oito de Setembro	459	Vila Dom Pedro I	São Paulo	SP	04267-000	2	2	1	1	1	1	1	3
+RA55000448	Jovanes Carvalhoso Chainho	25	5987.41	1	1	3	1	1	Rua Flor de Abril	918	Jardim Peri	São Paulo	SP	02651-140	2	2	2	2	2	2	2	2
+RA55000449	Elvita Negreiros	23	4919.26	2	2	2	2	9	Rua São Borja	704	Vila Gustavo	São Paulo	SP	02256-210	2	2	1	1	1	1	1	2
+RA55000450	Gervison Vilaça Lalanda Horta	24	3905.85	1	1	2	2	8	Rua M	477	Jardim Brasília (Zona Norte)	São Paulo	SP	02857-060	2	2	2	2	2	2	2	3
+RA55000451	Lilia Quintas Terra Bicudo	23	4771.26	1	2	3	1	6	Rua Soldado Sebastião Felício	171	Parque Novo Mundo	São Paulo	SP	02144-070	2	2	2	2	2	2	2	1
+RA55000452	Eloinda Lagoa Aranha	23	4632.27	2	2	3	1	2	Rua Dois de Julho	506	Ipiranga	São Paulo	SP	04215-000	2	2	1	1	1	1	1	0
+RA55000453	Elque Carreira	22	3678.7	1	1	5	2	3	Rua Marechal Mello Ararigbóia	289	Vila Francos	São Paulo	SP	02880-060	2	2	2	2	2	2	1	1
+RA55000454	Joseara Sobral Rico	22	4340.69	1	2	3	2	9	Avenida Bosque da Saúde	631	Saúde	São Paulo	SP	04142-091	2	2	2	2	2	1	1	0
+RA55000455	Mayckon Sacramento	23	4593.27	1	1	5	1	8	Rua Treze de Maio	349	Bela Vista	São Paulo	SP	01327-905	2	2	2	2	2	2	2	0
+RA55000456	Taiuane Miguel Zarco	22	4561.69	1	2	2	2	3	Rua Pedro Ruimonte	739	Jardim Heloisa	São Paulo	SP	05781-300	2	2	2	1	1	1	1	1
+RA55000457	Jaino Silva Domingos	22	5032.68	1	1	3	2	8	Rua Rainha-do-Bosque	864	Vila Santa Inês	São Paulo	SP	03812-030	2	2	2	2	2	2	2	1
+RA55000458	Almirio Caçoilo Bencatel	23	4711.26	1	1	2	1	8	Rua Marcos Liberi	843	Conjunto Residencial José Bonifácio	São Paulo	SP	08253-270	2	2	1	1	1	1	1	0
+RA55000459	Beverly Azambuja Nunes	25	5910.41	1	2	4	2	8	Rua Curruíra	550	Vila Aurora	São Paulo	SP	05186-200	2	3	2	2	2	2	2	1
+RA55000460	Rachell Miguel Pereira Barreto	25	4836.42	1	2	3	2	2	Rua Quinze de Novembro	223	Centro	São Paulo	SP	01013-910	2	2	2	1	1	1	1	0
+RA55000461	Aguimara Santos	24	4316.85	1	2	5	2	8	Praça Duere	628	Vila Carrão	São Paulo	SP	03445-010	2	2	2	2	2	2	2	0
+RA55000462	Temisia Sesimbra Abranches Silvestre	23	4042.27	1	2	2	2	3	Rua Doze de Outubro	921	União de Vila Nova	São Paulo	SP	08071-072	2	2	2	2	2	2	1	0
+RA55000463	Rafaella Rodrigues Ávila Caetano	22	5124.68	1	2	3	2	3	Rua Nossa Senhora Aparecida	709	Jardim São Francisco	São Paulo	SP	08390-252	2	2	1	1	1	1	1	1
+RA55000464	Lene Robalo	24	4509.84	1	2	3	1	7	Avenida Marechal Tito	689	Jardim Silva Teles	São Paulo	SP	08160-505	2	3	2	2	2	2	2	0
+RA55000465	Ledival Peixoto Valadares	25	4246.42	1	1	5	2	3	Rua Monsenhor Castro Nery	321	Parque Maria Domitila	São Paulo	SP	05128-010	2	2	1	1	2	2	1	1
+RA55000466	Cira Leal Leiria	25	5887.41	1	2	3	1	3	Rua Nossa Senhora da Paz	485	Jardim Almeida	São Paulo	SP	04866-245	1	1	1	1	1	1	1	1
+RA55000467	Valdacir Vidigal Dâmaso	24	4778.84	1	2	4	1	9	Rua Orestes Barbosa	329	Jardim Palmares (Zona Sul)	São Paulo	SP	04457-000	1	1	1	1	1	1	1	1
+RA55000468	Webert Vasconcelos Canadas Cordeiro	23	4217.27	1	1	3	2	6	Rua Nossa Senhora Aparecida	463	Jardim Elizabeth	São Paulo	SP	08320-800	2	2	2	2	2	2	1	0
+RA55000469	Massae Candeias	43	4451.81	2	1	5	2	9	Rua Pedro Doll	912	Santana	São Paulo	SP	02404-001	2	2	2	2	2	2	2	1
+RA55000470	Sigmar Pedroso Fiães	29	4443.73	1	1	2	2	8	Rua Caetano do Amaral	901	Vila Cruzeiro	São Paulo	SP	03382-130	2	2	2	2	2	2	2	0
+RA55000471	Arlei Veiga Chainho	29	3915.31	1	2	1	1	2	Rua Nossa Senhora da Piedade	327	Jardim Francisco Mendes	São Paulo	SP	02366-010	2	2	2	2	2	2	2	0
+RA55000472	Elvis Damásio Curvelo Frota	50	4993.85	1	1	2	2	2	Rua João Gomes	306	Jardim Herculano	São Paulo	SP	04920-040	2	2	2	2	2	2	2	1
+RA55000473	Nicodemos Sousa Vasconcelos Matos	43	5270.81	1	1	2	2	3	Rua Sargento Noel de Camargo	221	Jardim Imperador (Zona Leste)	São Paulo	SP	03937-000	2	2	2	2	2	2	2	0
+RA55000474	Saullo Freiria Brites	36	6378.33	1	1	4	1	2	Rua Dom Pedro	498	Jardim Apurá	São Paulo	SP	04470-037	2	2	2	2	2	2	2	0
+RA55000475	Drieli Cavadas	38	6277.91	2	1	3	2	9	Rua C	501	Jardim Santa Cruz (Sacomã)	São Paulo	SP	04182-135	2	3	2	2	2	2	2	0
+RA55000476	Murillo Peçanha Candal Frazão	45	8300.51	1	1	5	1	9	Rua Bonifácio Ruiz	306	Conjunto Promorar São Luis	São Paulo	SP	05846-200	2	2	2	1	1	1	1	1
+RA55000477	Nais Moreira Tabosa	41	8099.2	1	2	3	2	4	Rua N	126	Furnas	São Paulo	SP	02323-280	2	2	1	1	1	1	1	0
+RA55000478	Sandreani Lancastre	38	6234.49	2	2	4	1	2	Rua Nossa Senhora Aparecida	604	Jardim Felicidade (Zona Norte)	São Paulo	SP	02326-105	3	3	3	2	3	3	3	0
+RA55000479	Chaiane Montenegro Coelho Cachão	45	9369.92	1	2	5	2	2	Rua Sete de Abril	277	Parque Primavera	São Paulo	SP	04467-285	2	2	2	2	2	2	2	1
+RA55000480	Cosmo Flores Amado	34	8591.16	1	1	5	2	9	Praça Sá Pinto	720	Vila Ipojuca	São Paulo	SP	05055-070	2	2	2	2	2	2	2	0
+RA55000481	Wirlen Medina	43	8421.35	1	1	3	2	7	Rua Treze de Maio	349	Bela Vista	São Paulo	SP	01327-905	2	2	2	1	1	1	1	1
+RA55000482	Rosette Vidal Cavaco	40	11589.59	1	2	5	2	8	Rua Bonifácio Ruiz	306	Conjunto Promorar São Luis	São Paulo	SP	05846-200	3	3	2	2	2	2	2	1
+RA55000483	Anabelle Gabeira Leme Girão	25	10097.94	1	2	5	1	3	Travessa Sete de Setembro	449	Recanto dos Humildes	São Paulo	SP	05209-550	3	3	3	3	3	3	3	0
+RA55000484	Maurici Barateiro Estrela Hipólito	29	6225.29	2	1	3	1	9	Rua Marechal Silva Fonseca	104	Jardim Três Marias	São Paulo	SP	03676-030	2	2	1	1	1	1	1	0
+RA55000485	Josiclei Santana	40	9570.61	1	2	4	1	1	Rua Vinte e Oito de Setembro	136	Vila Dom Pedro I	São Paulo	SP	04267-000	2	2	2	2	2	2	1	0
+RA55000486	Ronieli Mamouros Bettencourt	28	10298.1	1	1	1	2	9	Rua São Vito	399	Brás	São Paulo	SP	03007-030	2	2	2	2	2	2	2	1
+RA55000487	Carliel Colares	48	6854.26	1	1	4	2	1	Rua Rainha-do-Bosque	864	Vila Santa Inês	São Paulo	SP	03812-030	2	2	2	2	2	2	2	0
+RA55000488	Eliezel Veríssimo Rosário Cesário	33	8912.0	2	1	2	2	1	Rua Dom Rosalvo	343	Sumarezinho	São Paulo	SP	05442-903	2	2	2	2	2	2	2	1
+RA55000489	Neuvaldo Cabral Neres Feijó	34	6778.6	1	1	5	2	7	Rua Monsenhor Castro Nery	321	Parque Maria Domitila	São Paulo	SP	05128-010	2	2	1	1	1	1	1	1
+RA55000490	Roseles Alcoforado Talhão Parreir	48	9682.65	1	2	5	2	4	Rua Capitão José Amaral	995	Vila Portuguesa	São Paulo	SP	02832-110	2	2	2	1	2	2	2	1
+RA55000491	Diolino Mourato	34	10457.14	1	1	4	2	4	Rua Rui Boto de Sousa	425	Jardim Aracati	São Paulo	SP	04949-020	2	2	2	2	2	2	2	0
+RA55000492	Luiza Brito Câmara Sacramento	29	17336.61	1	2	5	2	4	Rua Dez de Julho	594	Cidade Ademar	São Paulo	SP	04404-000	2	2	2	2	2	2	2	1
+RA55000493	Eberto Bragança Damasceno	33	20678.88	1	1	1	2	2	Avenida Nove de Julho	282	Jardim Paulista	São Paulo	SP	01407-902	2	2	2	2	2	2	1	0
+RA55000494	Avelino Janes	48	16439.16	1	1	2	2	3	Rua Marechal Malet	251	Parque da Vila Prudente	São Paulo	SP	03140-020	2	2	2	2	2	2	1	0
+RA55000495	Carlete Galindo	29	21470.14	1	2	4	2	5	Rua São João	847	Jardim Nova Conquista	São Paulo	SP	08346-405	2	2	2	2	2	2	2	0
+RA55000496	Dorielma Farinha Angelim	31	22669.71	1	2	2	2	6	Viela Treze de Abril	495	Jardim Nazareth	São Paulo	SP	08150-750	2	2	2	1	1	1	1	1
+RA55000497	Carlene Barra Girão Quesado	45	229643.8	1	2	1	2	1	Rua Sargento Olício Alves	48	Vila Campo Grande	São Paulo	SP	04455-180	2	2	2	2	2	2	2	1
+RA55000498	Dinalia Neves Carmona Serpa	32	572939.98	2	2	5	2	6	Rua Dona Domitila	252	Vila Ponte Rasa	São Paulo	SP	03882-180	2	2	2	2	1	1	1	1
+RA55000499	Agni Andrade Vidigal	34	898004.0	1	1	5	2	9	Rua Dom Pedro	498	Jardim Apurá	São Paulo	SP	04470-037	1	1	1	1	1	1	1	0
+RA55000500	Gilvanise Pinheiro	25	453792.67	1	2	4	2	1	Rua Pedro Doll	912	Santana	São Paulo	SP	02404-001	2	2	2	2	2	2	2	1
